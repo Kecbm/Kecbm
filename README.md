@@ -18,22 +18,25 @@
   <img title="GitHub" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 <br><br><br>
- <p align=center>
-  <div align="center">
+<br>
+<p align=center>
+  <div align=center>
     <a href="https://github.com/Kecbm" title="Kecbm profile">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Kecbm&theme=react&border=61dafb&hide_border=true" alt="Kecbm" />
     </a>
- <br><br><br>
     <a href="https://github.com/Kecbm" title="Kecbm profile">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Kecbm&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-<br><br><br><br><br><br><br><br><br>
-  <div align="center">
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
     <a href="https://github.com/Kecbm" title="Kecbm profile">
-      <img width=325  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kecbm&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kecbm&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
+  <br>
+  <br>
   </div>
+</p>
 <br><br><br>
   <div align="center">
   <a href="https://www.linkedin.com/in/kecbm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
