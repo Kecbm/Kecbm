@@ -35,23 +35,22 @@
   <br>
   </div>
 </p>
-<br><br><br>
-<br>
+<br><br>
   <div align="center">
   <a href="https://www.linkedin.com/in/kecbm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/kecbm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <br>
-<br><br><br>
+<br>
 </div>
 </p>
 <br>
-<br><br><br>
+<br>
 <div align="center">
   <p>
     😎 Perfil baseado em <a href="https://github.com/SrTonn">Wellington Rodrigues</a>
   </p>
 <br>
-<br><br><br>
+<br>
   <img src="https://komarev.com/ghpvc/?username=Kecbm" alt="profile views" />
 </div>
 <br><br><br>
