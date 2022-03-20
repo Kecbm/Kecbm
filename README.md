@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo (a) ao meu perfil 👋
 
 <ul>
-  <li>🖥 Sou apaixonada por Tecnologia, área que impacta bilhões de vidas diariamente ao redor do mundo</li>
+  <li>🖥 Sou apaixonada por Tecnologia, área que impacta bilhões de vidas diariamente</li>
   <li>🔭 Sou estudante de desenvolvimento web full stack na  <a href="https://www.xpinc.com/">Turma XP</a> - <a href="https://betrybe.com">Trybe</a></li>
   <li>🌱 Estudando Front-end e Jest</li>
   <li>🤔 Meus hobbies são praticar exercício físico, jogar video game e ler</li>
