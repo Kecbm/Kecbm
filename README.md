@@ -6,7 +6,7 @@
   <li>🔭 Estudante de desenvolvimento web full stack na  <a href="https://www.xpinc.com/">Turma XP</a> - <a href="https://betrybe.com">Trybe</a></li>
   <li>🌱 Atualmente estudando Front-end e Jest</li>
   <li>🤔 Meus hobbies são praticar exercício físico, jogar video game e ler</li>
-  <li>⚡ Fato engraçado: faço memes com JavaScript no twitter</li>
+  <li>⚡ Fato engraçado: faço memes de JavaScript no twitter</li>
 <ul>
 <br><br><br>
 <br>
