@@ -24,7 +24,7 @@
 <br><br><br>
 <br>
   <h2>Onde estou praticando</h2>
-  [<img src='https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png' alt='hackerrank' height='50'>](https://www.hackerrank.com/kleciannymelo)
+  <a href="https://www.hackerrank.com/kleciannymelo"><img src='https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png' alt='hackerrank' height='40'></a>
   <ul>
     <li>🥉 Problem solving</li>
   </ul>
