@@ -23,13 +23,6 @@
 </div>
 <br><br><br>
 <br>
-  <h2>Onde estou praticando</h2>
-  <a href="https://www.hackerrank.com/kleciannymelo"><img src='https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png' alt='hackerrank' height="30" width="40"></a>
-  <ul>
-    <li>🥉 Problem solving</li>
-  </ul>
-<br><br><br>
-<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/Kecbm" title="Kecbm profile">
