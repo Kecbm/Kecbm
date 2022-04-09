@@ -5,7 +5,7 @@
   <li>🎓 Sou engenheira de alimentos - UFAPE</li>
   <li>🖥 Apaixonada por Tecnologia, área que impacta bilhões de vidas diariamente</li>
   <li>🔭 Estudante de desenvolvimento web full stack e embaixadora da  <a href="https://www.xpinc.com/">Turma XP</a> - <a href="https://betrybe.com">Trybe</a></li>
-  <li>🌱 Atualmente estudando Front-end e Jest</li>
+  <li>🌱 Atualmente estudando Back-end</li>
   <li>🤔 Meus hobbies são praticar exercício físico, jogar video game e ler</li>
   <li>💬 Vamos conversar? Gosto bastante de debater assuntos</li>
   <li>⚡ Fato engraçado: faço memes de JavaScript no twitter</li>
