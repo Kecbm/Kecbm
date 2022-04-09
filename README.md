@@ -1,16 +1,18 @@
-### <h1>< Olá mundo /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="40px"></h1>
+### <h1>🖥 < Olá mundo /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="40px"></h1>
 
 <ul>
+  <li>😎 Me chamo Klecianny Melo, tenho 26 anos e moro em Garanhuns - Pernambuco. Tenho mais de 10 anos de experiência na música, sou saxofonista. Essa experiência me proporcionou o convivio intenso com o trabalho em grupo, participei de diversas bandas, dentre elas a Orquestra Manoel Rabelo, da Prefeitura Municipal de Garanhuns. Também tive a oportunidade de ser monitora de Algoritmos e programação de computadores durante a graduação, onde estudei as linguagens C e Java</li>
   <li>🎓 Sou engenheira de alimentos - UFAPE</li>
   <li>🖥 Apaixonada por Tecnologia, área que impacta bilhões de vidas diariamente</li>
-  <li>🔭 Estudante de desenvolvimento web full stack na  <a href="https://www.xpinc.com/">Turma XP</a> - <a href="https://betrybe.com">Trybe</a></li>
+  <li>🔭 Estudante de desenvolvimento web full stack e embaixadora da  <a href="https://www.xpinc.com/">Turma XP</a> - <a href="https://betrybe.com">Trybe</a></li>
   <li>🌱 Atualmente estudando Front-end e Jest</li>
   <li>🤔 Meus hobbies são praticar exercício físico, jogar video game e ler</li>
+  <li>💬 Vamos conversar? Gosto bastante de debater os assuntos</li>
   <li>⚡ Fato engraçado: faço memes de JavaScript no twitter</li>
 <ul>
 <br><br><br>
 <br>
-  <h2>Skills</h2>
+  <h2>🛠 Skills</h2>
   <div align="center" style="margin-top: 30px" style="display: inline_block">
   <code><img title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
@@ -23,6 +25,7 @@
 </div>
 <br><br><br>
 <br>
+  <h2>📊 Estatísticas</h2>
 <p align=center>
   <div align=center>
     <a href="https://github.com/Kecbm" title="Kecbm profile">
@@ -39,7 +42,7 @@
   </div>
 </p>
 <br><br>
-  <h2>Vamos nos conectar?</h2>
+  <h2>🤝 Vamos nos conectar?</h2>
   <div align="center">
   <a href="https://www.linkedin.com/in/kecbm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/kecbm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
