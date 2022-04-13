@@ -14,7 +14,8 @@
 <br>
   <h2>🛠 Skills</h2>
   <div align="center" style="margin-top: 30px" style="display: inline_block">
-   <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
+  <code><img height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/></code>
+  <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
   <code><img title="HTML5" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img title="CSS3" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
   <code><img title="JavaScript" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
