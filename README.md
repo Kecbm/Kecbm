@@ -7,7 +7,7 @@
   <li>🔭 Estudante de desenvolvimento web full stack e embaixadora da  <a href="https://www.xpinc.com/">Turma XP</a> - <a href="https://betrybe.com">Trybe</a></li>
   <li>🌱 Atualmente estudando Back-end</li>
   <li>🤔 Meus hobbies são praticar exercício físico, jogar video game e ler</li>
-  <li>✉ Kleciannymelo@gmail.com</li>
+  <li>📝 Acesse meu curriculo <a href="https://www.cvkeep.com/cv/7e863938f1cc31f1755d834316835807">clicando aqui</a></li>
   <li>💬 Vamos conversar? Gosto bastante de debater assuntos</li>
   <li>⚡ Fato engraçado: faço memes de JavaScript no twitter</li>
 <ul>
@@ -59,6 +59,7 @@
   <a href="https://www.linkedin.com/in/kecbm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/kecbm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Kecbm" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kleciannymelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br>
 <br>
 </div>
