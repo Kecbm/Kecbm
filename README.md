@@ -38,6 +38,7 @@
   <code><img title="Vscode" alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="40" width="40" /></code>
   <code><img title="GitHub" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+  <code><img alt="npm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
 </div>
 <br><br><br>
 <br>
