@@ -15,7 +15,7 @@
 <ul>
 <br><br><br>
 <br>
-  <h2>🛠 Skills</h2>
+  <h1>🛠 Skills</h1>
   <div align="center" style="margin-top: 30px" style="display: inline_block">
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/></code>
   <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
@@ -45,7 +45,7 @@
 </div>
 <br><br><br>
 <br>
-  <h2>📊 Estatísticas</h2>
+  <h1>📊 Estatísticas</h1>
 <p align=center>
   <div align=center>
     <a href="https://github.com/Kecbm" title="Kecbm profile">
@@ -62,7 +62,7 @@
   </div>
 </p>
 <br><br>
-  <h2>🤝 Vamos nos conectar?</h2>
+  <h1>🤝 Vamos nos conectar?</h1>
   <div align="center">
   <a href="https://www.linkedin.com/in/kecbm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/kecbm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
