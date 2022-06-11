@@ -1,4 +1,4 @@
-### <h1>🖥 < Hello world /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="80px" height="80px"></h1>
+### <h1>🖥 < Hello world /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="40px" height="40px"></h1>
 
 <ul>
   <li>😎 Me chamo Klecianny Melo, tenho 26 anos e moro em Garanhuns - Pernambuco. Tenho mais de 10 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade. A música me ensinou que trabalhar em grupo é fundamental para alcançar resultados extraordinários. Durante a graduação fui monitora por 4 anos de diversas matérias, a primeira delas foi algoritmo e programação de computadores, onde estudei lógica de programação em C e Java</li>
@@ -33,6 +33,7 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" height="40" width="40" /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="seuelize" height="40" width="40" /></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></code>
   <code><img alt="vercel" height="40px" width="40" src="https://www.svgrepo.com/show/327408/logo-vercel.svg"></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></code>
@@ -62,7 +63,7 @@
   </div>
 </p>
 <br><br>
-  <h1>🤝 Vamos nos conectar?</h1>
+  <h1><img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/handshake.gif?raw=true" width="40" height="40" /> Vamos nos conectar?</h1>
   <div align="center">
   <a href="https://www.linkedin.com/in/kecbm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/kecbm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
