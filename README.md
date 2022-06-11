@@ -2,7 +2,7 @@
 
 <ul>
   <li>😎 Me chamo Klecianny Melo, tenho 26 anos e moro em Garanhuns - Pernambuco. Tenho mais de 10 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade. A música me ensinou que trabalhar em grupo é fundamental para alcançar resultados extraordinários. Durante a graduação fui monitora por 4 anos de diversas matérias, a primeira delas foi algoritmo e programação de computadores, onde estudei lógica de programação em C e Java</li>
-  <li>🎓 Sou engenheira de alimentos - UFAPE (Universidaade Federal do Agreste de Pernambuco)</li>
+  <li>🎓 Sou engenheira de alimentos - <a href="http://ufape.edu.br/br" target="_blank">UFAPE</a> (Universidade Federal do Agreste de Pernambuco)</li>
   <li>🖥 Apaixonada por Tecnologia, área que impacta bilhões de vidas diariamente</li>
   <li>🔭 Estudante de desenvolvimento web full stack e embaixadora da  <a href="https://www.xpinc.com/" target="_blank">Turma XP</a> - <a href="https://betrybe.com" target="_blank">Trybe</a></li>
   <li>🌱 Atualmente estudando Back-end</li>
