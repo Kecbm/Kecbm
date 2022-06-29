@@ -1,7 +1,7 @@
 ### <h1>🖥 < Hello world /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="60px" height="60px"></h1>
 
 <ul>
-  <li>😎 Me chamo Klecianny Melo, tenho 26 anos e moro em Garanhuns - Pernambuco. Tenho mais de 10 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade. E durante a graduação fui monitora por 4 anos de diversas matérias, a primeira delas foi algoritmo e programação de computadores, onde estudei lógica de programação em C e Java</li>
+  <li>😎 Me chamo Klecianny Melo, tenho 26 anos e moro em Garanhuns - Pernambuco. Tenho mais de 10 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade. Durante a graduação fui monitora por 4 anos de diversas matérias, a primeira delas foi algoritmo e programação de computadores, onde estudei lógica de programação em C e Java</li>
   <li>🎓 Sou engenheira de alimentos - <a href="http://ufape.edu.br/br" target="_blank">UFAPE</a> (Universidade Federal do Agreste de Pernambuco)</li>
   <li>🖥 Apaixonada por Tecnologia, área que impacta bilhões de vidas diariamente</li>
   <li>🔭 Estudante de desenvolvimento web full stack e embaixadora da  <a href="https://www.xpinc.com/" target="_blank">Turma XP</a> - <a href="https://betrybe.com" target="_blank">Trybe</a></li>
