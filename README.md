@@ -34,6 +34,7 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" height="40" width="40" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="seuelize" height="40" width="40" /></code>
+  <code><img title="JWT" alt="JWT" height="40" width="40" src="./public/assets/images/jwt.png"></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></code>
   <code><img alt="vercel" height="40px" width="40" src="https://www.svgrepo.com/show/327408/logo-vercel.svg"></code>
   <code><img alt="heroku" height="40px" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" /></code>
