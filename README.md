@@ -4,7 +4,7 @@
   <li>😎 Me chamo Klecianny Melo, tenho 26 anos e moro em Garanhuns - Pernambuco. Sou software engineer 1 na XP Inc., onde desenvolvo para Salesforce. Ingressei na área de tecnologia com uma transição de carreira pois tenho 11 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade. Durante a graduação fui monitora por 4 anos de várias matérias, a primeira delas foi algoritmos e programação de computadores, com lógica de programação em C e Java</li>
   <li>🎓 Sou engenheira de alimentos - <a href="http://ufape.edu.br/br" target="_blank">UFAPE</a> (Universidade Federal do Agreste de Pernambuco)</li>
   <li>🖥 Apaixonada por Tecnologia, área que impacta bilhões de vidas diariamente</li>
-  <li>🔭 Estudante de desenvolvimento web full stack e embaixadora da  <a href="https://www.xpinc.com/" target="_blank">Turma XP</a> - <a href="https://betrybe.com" target="_blank">Trybe</a></li>
+  <li>🔭 Desenvolvedora web full stack - <a href="https://betrybe.com" target="_blank">Trybe</a></li>
   <li>🌱 Atualmente tenho a classificação Mountaineer no <a href="https://trailblazer.me/id/kecbm" target="_blank"><b>Trailhead</b></a>, onde conquistei 47 Emblemas e 44.125 Pontos</li>
   <li>💻 Acesse a versão desktop do meu portifólio <a href="https://portfolio-kecbm.vercel.app/" target="_blank"><b>clicando aqui</b></a></li>
   <li>🤔 Meus hobbies são praticar exercício físico, jogar video game e ler</li>
