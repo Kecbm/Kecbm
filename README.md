@@ -3,8 +3,6 @@
 
 <details><summary><h2>🥷🏾 Quem sou eu?</h2></summary>
 <p>
-
-
 <ul>
   <li>😎 Me chamo Klecianny Melo, tenho 26 anos e moro em Garanhuns - Pernambuco. Sou software engineer 1 na XP Inc., onde desenvolvo para Salesforce. Ingressei na área de tecnologia com uma transição de carreira pois tenho 11 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade. Durante a graduação fui monitora por 4 anos de várias matérias, a primeira delas foi algoritmos e programação de computadores, com lógica de programação em C e Java</li>
   <li>🎓 Sou engenheira de alimentos - <a href="http://ufape.edu.br/br" target="_blank">UFAPE</a> (Universidade Federal do Agreste de Pernambuco)</li>
@@ -19,6 +17,7 @@
   <li>💬 Vamos conversar? Gosto bastante de debater assuntos</li>
   <li>⚡ Fato engraçado: faço memes de JavaScript no twitter</li>
 <ul>
+</p>
 <br><br><br>
 <br>
   <h1>🛠 Skills</h1>
