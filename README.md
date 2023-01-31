@@ -1,27 +1,26 @@
 ### <h1>🖥 < Hello, World /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="60px" height="60px"></h1>
 <br>
-
-<details><summary><h2>🥷🏾 Quem sou eu?</h2></summary>
+<h1>👩‍💻 Desenvolvedora Salesforce</h1>
+  <li>🌱 Atualmente tenho a classificação Expeditioner no <a href="https://trailblazer.me/id/kecbm" target="_blank"><b>Trailhead</b></a></li>
+  <li>⏳ 14h de aulas assistidas em cursos sobre Apex</li>
+<br>
+<details><summary><h1>🥷🏾 Quem sou eu?</h1></summary>
 <p>
-<ul>
   <li>😎 Me chamo Klecianny Melo, tenho 26 anos e moro em Garanhuns - Pernambuco. Sou software engineer 1 na XP Inc., onde desenvolvo para Salesforce. Ingressei na área de tecnologia com uma transição de carreira pois tenho 11 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade. Durante a graduação fui monitora por 4 anos de várias matérias, a primeira delas foi algoritmos e programação de computadores, com lógica de programação em C e Java</li>
   <li>🎓 Sou engenheira de alimentos - <a href="http://ufape.edu.br/br" target="_blank">UFAPE</a> (Universidade Federal do Agreste de Pernambuco)</li>
   <li>🖥 Apaixonada por Tecnologia, área que impacta bilhões de vidas diariamente</li>
   <li>🔭 Desenvolvedora web full stack - <a href="https://betrybe.com" target="_blank">Trybe</a></li>
-  <li>🌱 Atualmente tenho a classificação Expeditioner no <a href="https://trailblazer.me/id/kecbm" target="_blank"><b>Trailhead</b></a></li>
-  <li>⏳ 14h de aulas assistidas sobre Apex</li>
   <li>💻 Acesse a versão desktop do meu portifólio <a href="https://portfolio-kecbm.vercel.app/" target="_blank"><b>clicando aqui</b></a></li>
   <li>🤔 Meus hobbies são praticar exercício físico, jogar video game e ler</li>
   <li>📝 Acesse meu curriculo <a href="https://www.cvkeep.com/cv/7e863938f1cc31f1755d834316835807" target="_blank"><b>clicando aqui</b></a></li>
   <li>📫 Envie um email para <b>Kleciannymelo@gmail.com</b></li>
   <li>💬 Vamos conversar? Gosto bastante de debater assuntos</li>
   <li>⚡ Fato engraçado: faço memes de JavaScript no twitter</li>
-<ul>
 </p>
 </details>
-<br><br><br>
 <br>
-  <h1>🛠 Skills</h1>
+  <details><summary><h1><h1>🛠 Skills</h1></summary>
+  <p>
   <div align="center" style="margin-top: 30px" style="display: inline_block">
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/></code>
   <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
@@ -55,9 +54,10 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="40" width="40" /></code>
   <code><img title="GitHub" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 </div>
-<br><br><br>
+</p>
+</details>
 <br>
-  <h1>📊 Estatísticas</h1>
+  <details><summary><h1>📊 Estatísticas</h1></summary>
 <p align=center>
   <div align=center>
     <a href="https://github.com/Kecbm" title="Kecbm profile">
@@ -70,10 +70,10 @@
       <img width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kecbm&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   <br>
-  <br>
   </div>
 </p>
-<br><br>
+</details>
+<br>
   <h1><img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/handshake.gif?raw=true" width="100" height="100" /> Vamos nos conectar?</h1>
   <div align="center">
   <a href="https://portfolio-kecbm.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-06D6A0?style=for-the-badge" target="_blank"></a>
@@ -82,19 +82,10 @@
   <a href="https://www.instagram.com/kecbm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Kecbm" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:kleciannymelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-C00021?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<br>
-<br>
 </div>
 </p>
 <br>
-<br>
 <div align="center">
-  <p>
-    😎 Perfil baseado em <a href="https://github.com/SrTonn" target="_blank">Wellington Rodrigues</a>
-  </p>
-<br>
 <br>
   <img src="https://komarev.com/ghpvc/?username=Kecbm" alt="profile views" />
 </div>
-<br><br><br>
-
