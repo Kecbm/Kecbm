@@ -18,6 +18,7 @@
   <li>⚡ Fato engraçado: faço memes de JavaScript no twitter</li>
 <ul>
 </p>
+</details>
 <br><br><br>
 <br>
   <h1>🛠 Skills</h1>
