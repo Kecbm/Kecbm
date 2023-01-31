@@ -5,7 +5,8 @@
   <li>🎓 Sou engenheira de alimentos - <a href="http://ufape.edu.br/br" target="_blank">UFAPE</a> (Universidade Federal do Agreste de Pernambuco)</li>
   <li>🖥 Apaixonada por Tecnologia, área que impacta bilhões de vidas diariamente</li>
   <li>🔭 Desenvolvedora web full stack - <a href="https://betrybe.com" target="_blank">Trybe</a></li>
-  <li>🌱 Atualmente tenho a classificação Expeditioner no <a href="https://trailblazer.me/id/kecbm" target="_blank"><b>Trailhead</b></a>e 14h de aulas assistidas sobre Apex</li>
+  <li>🌱 Atualmente tenho a classificação Expeditioner no <a href="https://trailblazer.me/id/kecbm" target="_blank"><b>Trailhead</b></a></li>
+  <li>⏳ 14h de aulas assistidas sobre Apex</li>
   <li>💻 Acesse a versão desktop do meu portifólio <a href="https://portfolio-kecbm.vercel.app/" target="_blank"><b>clicando aqui</b></a></li>
   <li>🤔 Meus hobbies são praticar exercício físico, jogar video game e ler</li>
   <li>📝 Acesse meu curriculo <a href="https://www.cvkeep.com/cv/7e863938f1cc31f1755d834316835807" target="_blank"><b>clicando aqui</b></a></li>
