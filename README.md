@@ -2,7 +2,7 @@
 <br>
 <h1>👩‍💻 Desenvolvedora Salesforce</h1>
   <li>🌱 Atualmente tenho a classificação Expeditioner no <a href="https://trailblazer.me/id/kecbm" target="_blank"><b>Trailhead</b></a></li>
-  <li>⏳ 14h de aulas assistidas em cursos sobre Apex</li>
+  <li>⏳ 113 aulas assistidas em cursos sobre Apex, totalizando 14h de estudo</li>
 <br>
 <details><summary><h1>🥷🏾 Quem sou eu?</h1></summary>
 <p>
