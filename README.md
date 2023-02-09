@@ -6,7 +6,7 @@
 <br>
 <h1>🤔 Clique nos tópicos a seguir para descobrir:<h1>
 <br>
-<details><summary><h2>🥷🏾 Quem sou eu?</h2></summary>
+<details><summary><h3>🥷🏾 Quem sou eu?</h3></summary>
 <p>
 <ul>
   <li>😎 Me chamo Klecianny Melo, tenho 26 anos e moro em Garanhuns - Pernambuco. Sou software engineer 1 na XP Inc., onde desenvolvo para Salesforce. Ingressei na área de tecnologia com uma transição de carreira pois tenho 11 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade. Durante a graduação fui monitora por 4 anos de várias matérias, a primeira delas foi algoritmos e programação de computadores, com lógica de programação em C e Java</li>
@@ -23,7 +23,7 @@
 </p>
 </details>
 <br>
-  <details><summary><h1><h1>🛠 Skills</h1></summary>
+  <details><summary><h3>🛠 Skills</h3></summary>
   <p>
   <div align="center" style="margin-top: 30px" style="display: inline_block">
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/></code>
@@ -61,7 +61,7 @@
 </p>
 </details>
 <br>
-  <details><summary><h1>📊 Estatísticas</h1></summary>
+  <details><summary><h3>📊 Estatísticas</h3></summary>
 <p align=center>
   <div align=center>
     <a href="https://github.com/Kecbm" title="Kecbm profile">
