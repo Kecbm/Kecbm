@@ -6,7 +6,7 @@
 <br>
 <h1>🤔 Clique nos tópicos a seguir para descobrir:<h1>
 <br>
-<details><summary><h1>🥷🏾 Quem sou eu?</h1></summary>
+<details><summary><h2>🥷🏾 Quem sou eu?</h2></summary>
 <p>
 <ul>
   <li>😎 Me chamo Klecianny Melo, tenho 26 anos e moro em Garanhuns - Pernambuco. Sou software engineer 1 na XP Inc., onde desenvolvo para Salesforce. Ingressei na área de tecnologia com uma transição de carreira pois tenho 11 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade. Durante a graduação fui monitora por 4 anos de várias matérias, a primeira delas foi algoritmos e programação de computadores, com lógica de programação em C e Java</li>
