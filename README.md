@@ -1,26 +1,25 @@
 ### <h1>🖥 < Hello, World /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="60px" height="60px"></h1>
 <br>
 <h1>👩‍💻 Desenvolvedora Salesforce</h1>
-  <li>🌱 Atualmente tenho a classificação Expeditioner no <a href="https://trailblazer.me/id/kecbm" target="_blank"><b>Trailhead</b></a></li>
-  <li>⏳ 113 aulas assistidas em <a href="https://github.com/Kecbm/apex/blob/main/certificados/1.%20Certificados.page" target="_blank"><b>cursos sobre Apex</b></a>, totalizando 14 horas de estudo</li>
+  <h3>🌱 Atualmente sou Trailblazer <a href="https://trailblazer.me/id/kecbm" target="_blank"><b>Expeditioner</b></a></h3>
+  <h3>🏅 1x <a href="https://trailblazer.me/id/kecbm" target="_blank"><b>Superbadge</b></a></h3>
+  <h3>⏳ 113 aulas assistidas em <a href="https://github.com/Kecbm/apex/blob/main/certificados/1.%20Certificados.page" target="_blank"><b>cursos sobre Apex</b></a>, totalizando 14 horas de estudo</h3>
 <br>
 <h1>🤔 Clique nos tópicos a seguir para descobrir:<h1>
 <br>
 <details><summary><h3>🥷🏾 Quem sou eu?</h3></summary>
-<p>
-<ul>
-  <li>😎 Me chamo Klecianny Melo, tenho 26 anos e moro em Garanhuns - Pernambuco. Sou software engineer 1 na XP Inc., onde desenvolvo para Salesforce. Ingressei na área de tecnologia com uma transição de carreira pois tenho 11 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade. Durante a graduação fui monitora por 4 anos de várias matérias, a primeira delas foi algoritmos e programação de computadores, com lógica de programação em C e Java</li>
-  <li>🎓 Sou engenheira de alimentos - <a href="http://ufape.edu.br/br" target="_blank">UFAPE</a> (Universidade Federal do Agreste de Pernambuco)</li>
-  <li>🖥 Apaixonada por Tecnologia, área que impacta bilhões de vidas diariamente</li>
-  <li>🔭 Desenvolvedora web full stack - <a href="https://betrybe.com" target="_blank">Trybe</a></li>
-  <li>💻 Acesse a versão desktop do meu portifólio <a href="https://portfolio-kecbm.vercel.app/" target="_blank"><b>clicando aqui</b></a></li>
-  <li>🤔 Meus hobbies são praticar exercício físico, jogar video game e ler</li>
-  <li>📝 Acesse meu curriculo <a href="https://www.cvkeep.com/cv/7e863938f1cc31f1755d834316835807" target="_blank"><b>clicando aqui</b></a></li>
-  <li>📫 Envie um email para <b>Kleciannymelo@gmail.com</b></li>
-  <li>💬 Vamos conversar? Gosto bastante de debater assuntos</li>
-  <li>⚡ Fato engraçado: faço memes de JavaScript no twitter</li>
-</ul>
-</p>
+<div>
+  <p>😎 Me chamo Klecianny Melo, tenho 26 anos e moro em Garanhuns - Pernambuco. Sou software engineer 1 na XP Inc., onde desenvolvo para Salesforce. Ingressei na área de tecnologia com uma transição de carreira pois tenho 11 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade. Durante a graduação fui monitora por 4 anos de várias matérias, a primeira delas foi algoritmos e programação de computadores, com lógica de programação em C e Java</p>
+  <p>🎓 Sou engenheira de alimentos - <a href="http://ufape.edu.br/br" target="_blank">UFAPE</a> (Universidade Federal do Agreste de Pernambuco)</p>
+  <p>🖥 Apaixonada por Tecnologia, área que impacta bilhões de vidas diariamente</p>
+  <p>🔭 Desenvolvedora web full stack - <a href="https://betrybe.com" target="_blank">Trybe</a></p>
+  <p>💻 Acesse a versão desktop do meu portifólio <a href="https://portfolio-kecbm.vercel.app/" target="_blank"><b>clicando aqui</b></a></p>
+  <p>🤔 Meus hobbies são praticar exercício físico, jogar video game e ler</li>
+  <p>📝 Acesse meu curriculo <a href="https://www.cvkeep.com/cv/7e863938f1cc31f1755d834316835807" target="_blank"><b>clicando aqui</b></a></p>
+  <p>📫 Envie um email para <b>Kleciannymelo@gmail.com</b></p>
+  <p>💬 Vamos conversar? Gosto bastante de debater assuntos</p>
+  <p>⚡ Fato engraçado: faço memes de JavaScript no twitter</p>
+</div>
 </details>
 <br>
   <details><summary><h3>🛠 Skills</h3></summary>
@@ -64,12 +63,6 @@
   <details><summary><h3>📊 Estatísticas</h3></summary>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/Kecbm" title="Kecbm profile">
-      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Kecbm&theme=react&border=61dafb&hide_border=true" alt="Kecbm" />
-    </a>
-    <a href="https://github.com/Kecbm" title="Kecbm profile">
-      <img width=396 src="https://github-readme-stats.vercel.app/api?username=Kecbm&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
     <a href="https://github.com/Kecbm" title="Kecbm profile">
       <img width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kecbm&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
