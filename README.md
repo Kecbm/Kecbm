@@ -2,7 +2,7 @@
 <br>
 <h1>👩‍💻 Desenvolvedora Salesforce</h1>
   <h3>🌱 Atualmente sou Trailblazer <a href="https://trailblazer.me/id/kecbm" target="_blank"><b>Expeditioner</b></a></h3>
-  <h3>🏅 1x <a href="https://trailblazer.me/id/kecbm" target="_blank"><b>Superbadge</b></a></h3>
+  <h3>🏅 1x <a href="https://trailblazer.me/id/kecbm" target="_blank"><b>SuperBadge</b></a></h3>
   <h3>⏳ 113 aulas assistidas em <a href="https://github.com/Kecbm/apex/blob/main/certificados/1.%20Certificados.page" target="_blank"><b>cursos sobre Apex</b></a>, totalizando 14 horas de estudo</h3>
 <br>
 <h1>🤔 Clique nos tópicos a seguir para descobrir:<h1>
