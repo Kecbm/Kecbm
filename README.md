@@ -1,9 +1,4 @@
-### <h1>🖥 System.debug('Hello, World') <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="60px" height="60px"></h1>
-<br>
-<h1>👩‍💻 Desenvolvedora Salesforce</h1>
-  <h3>🌱 Atualmente sou Trailblazer <a href="https://trailblazer.me/id/kecbm" target="_blank"><b>Expeditioner</b></a></h3>
-  <h3>🏅 1x <a href="https://trailblazer.me/id/kecbm" target="_blank"><b>SuperBadge</b></a></h3>
-  <h3>⏳ 113 aulas assistidas em <a href="https://github.com/Kecbm/apex/blob/main/certificados/1.%20Certificados.page" target="_blank"><b>cursos sobre Apex</b></a>, totalizando 14 horas de estudo</h3>
+### <h1>🖥 console.log("Hello, World") <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="60px" height="60px"></h1>
 <br>
 <h1>🤔 Clique nos tópicos a seguir para descobrir:<h1>
 <br>
