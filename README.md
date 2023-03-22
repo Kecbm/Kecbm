@@ -1,21 +1,20 @@
 ### <h1>🖥 console.log("Hello, World") <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="60px" height="60px"></h1>
 <br>
-<h1>🤔 Clique nos tópicos a seguir para descobrir:<h1>
+<h1>🥷🏾 Quem sou eu?</h3>
+<ul>
+  <li>😎 Me chamo Klecianny Melo, tenho 27 anos e moro em Garanhuns - Pernambuco. Fui software engineer 1 na XP Inc., onde desenvolvi para Salesforce. Ingressei na área de tecnologia com uma transição de carreira pois tenho 11 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade. Durante a graduação fui monitora por 4 anos de várias matérias, a primeira delas foi algoritmos e programação de computadores, com lógica de programação em C e Java</li>
+  <li>🎓 Sou engenheira de alimentos - <a href="http://ufape.edu.br/br" target="_blank">UFAPE</a> (Universidade Federal do Agreste de Pernambuco)</li>
+  <li>🖥 Apaixonada por Tecnologia, área que impacta bilhões de vidas diariamente</li>
+  <li>🔭 Desenvolvedora Web Full Stack - <a href="https://betrybe.com" target="_blank">Trybe</a></li>
+  <li>💻 Acesse a versão desktop do meu portifólio <a href="https://portfolio-kecbm.vercel.app/" target="_blank"><b>clicando aqui</b></a></li>
+  <li>🤔 Meus hobbies são praticar exercício físico, jogar video game e ler</li>
+  <li>📝 Acesse meu curriculo <a href="https://www.cvkeep.com/cv/7e863938f1cc31f1755d834316835807" target="_blank"><b>clicando aqui</b></a></li>
+  <li>📫 Envie um email para <b>Kleciannymelo@gmail.com</b></li>
+  <li>💬 Vamos conversar? Gosto bastante de debater assuntos</li>
+  <li>⚡ Fato engraçado: faço memes de JavaScript no <a href="https://twitter.com/Kecbm" target="_blank">Twitter</a></li>
+</ul>
 <br>
-<details><summary><h3>🥷🏾 Quem sou eu?</h3></summary>
-<div>
-  <p>😎 Me chamo Klecianny Melo, tenho 27 anos e moro em Garanhuns - Pernambuco. Fui software engineer 1 na XP Inc., onde desenvolvi para Salesforce. Ingressei na área de tecnologia com uma transição de carreira pois tenho 11 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade. Durante a graduação fui monitora por 4 anos de várias matérias, a primeira delas foi algoritmos e programação de computadores, com lógica de programação em C e Java</p>
-  <p>🎓 Sou engenheira de alimentos - <a href="http://ufape.edu.br/br" target="_blank">UFAPE</a> (Universidade Federal do Agreste de Pernambuco)</p>
-  <p>🖥 Apaixonada por Tecnologia, área que impacta bilhões de vidas diariamente</p>
-  <p>🔭 Desenvolvedora web full stack - <a href="https://betrybe.com" target="_blank">Trybe</a></p>
-  <p>💻 Acesse a versão desktop do meu portifólio <a href="https://portfolio-kecbm.vercel.app/" target="_blank"><b>clicando aqui</b></a></p>
-  <p>🤔 Meus hobbies são praticar exercício físico, jogar video game e ler</li>
-  <p>📝 Acesse meu curriculo <a href="https://www.cvkeep.com/cv/7e863938f1cc31f1755d834316835807" target="_blank"><b>clicando aqui</b></a></p>
-  <p>📫 Envie um email para <b>Kleciannymelo@gmail.com</b></p>
-  <p>💬 Vamos conversar? Gosto bastante de debater assuntos</p>
-  <p>⚡ Fato engraçado: faço memes de JavaScript no <a href="https://twitter.com/Kecbm" target="_blank">Twitter</a></p>
-</div>
-</details>
+<h1>🤔 Clique nos tópicos a seguir para descobrir:<h1>
 <br>
   <details><summary><h3>🛠 Skills</h3></summary>
   <p>
