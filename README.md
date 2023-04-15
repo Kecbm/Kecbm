@@ -85,6 +85,7 @@ Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente es
 ## 🎓 Formação Acadêmica
 
 💻 Desenvolvimento Web Full Stack - Trybe (2021 - 2022)
+
 👩🏽‍🔬 Engenharia de Alimentos - UFAPE (2014 - 2021)
 
 <br>
