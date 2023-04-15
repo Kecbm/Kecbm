@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou Klecianny 
+# 👋🏽 Olá, eu sou Klecianny 
 
 Tenho 27 anos e moro em Garanhuns - Pernambuco. Ingressei na área de tecnologia por transição de carreira pois tenho 11 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade.
 
 <br>
 
-## 👩‍🎓 Formação
+## 👩🏽‍🎓 Formação
 
 Sou Engenheira de Alimentos pela UFAPE - Universidade Federal do Agreste de Pernambuco. Durante a graduação fui monitora por 4 anos de várias matérias, a primeira delas foi algoritmos e programação de computadores, com lógica de programação em C e Java.
 
@@ -60,7 +60,7 @@ Também sou Desenvolvedora Web Full Stack pela Trybe.
 
 <br>
 
-## 👩‍💻 Profissional
+## 👩🏽‍💻 Profissional
 
 Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente estou em busca de uma nova oportunidade profissional.
 
@@ -76,7 +76,7 @@ Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente es
 
 ## 🎓 Formação Acadêmica
 
-👩‍🔬 Engenharia de Alimentos - UFAPE (2014 - 2021)
+👩🏽‍🔬 Engenharia de Alimentos - UFAPE (2014 - 2021)
 
 <br>
 
