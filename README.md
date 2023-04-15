@@ -3,6 +3,8 @@
 Tenho 27 anos e moro em Garanhuns - Pernambuco. Ingressei na área de tecnologia por transição de carreira pois tenho 11 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade.
 
 <br>
+<br>
+<br>
 
 ## 👩🏽‍🎓 Formação
 
@@ -59,11 +61,15 @@ Também sou Desenvolvedora Web Full Stack pela Trybe.
 </details>
 
 <br>
+<br>
+<br>
 
 ## 👩🏽‍💻 Profissional
 
 Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente estou em busca de uma nova oportunidade profissional.
 
+<br>
+<br>
 <br>
 
 ----
@@ -73,11 +79,15 @@ Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente es
 🌥 Software Engineer 1 - XP Inc. (09/2022 - 03/2023)
 
 <br>
+<br>
+<br>
 
 ## 🎓 Formação Acadêmica
 
 👩🏽‍🔬 Engenharia de Alimentos - UFAPE (2014 - 2021)
 
+<br>
+<br>
 <br>
 
 ----
