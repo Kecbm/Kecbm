@@ -1,24 +1,16 @@
-### <h1>🖥 console.log("Hello, World") <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="60px" height="60px"></h1>
+# 🥷 Olá, eu sou Klecianny 
+
+Tenho 27 anos e moro em Garanhuns - Pernambuco. Ingressei na área de tecnologia por transição de carreira pois tenho 11 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade.
+
+## 👩‍🎓 Formação
+
+Sou Engenheira de Alimentos pela UFAPE - Universidade Federal do Agreste de Pernambuco. Durante a graduação fui monitora por 4 anos de várias matérias, a primeira delas foi algoritmos e programação de computadores, com lógica de programação em C e Java.
+
+Também sou Desenvolvedora Web Full Stack pela Trybe.
+
 <br>
-<h1>🥷🏾 Quem sou eu?</h3>
-<ul>
-  <li>😎 Me chamo Klecianny Melo, tenho 27 anos e moro em Garanhuns - Pernambuco. Ingressei na área de tecnologia com uma transição de carreira pois tenho 11 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade. Durante a graduação fui monitora por 4 anos de várias matérias, a primeira delas foi algoritmos e programação de computadores, com lógica de programação em C e Java</li>
-  <li>🏡 Fui Software Engineer 1 na XP Inc., onde desenvolvi para Salesforce</li>
-  <li>🎓 Sou engenheira de alimentos - <a href="http://ufape.edu.br/br" target="_blank">UFAPE</a> (Universidade Federal do Agreste de Pernambuco)</li>
-  <li>🖥 Apaixonada por Tecnologia, área que impacta bilhões de vidas diariamente</li>
-  <li>🔭 Desenvolvedora Web Full Stack - <a href="https://betrybe.com" target="_blank">Trybe</a></li>
-  <li>💻 Acesse a versão desktop do meu portifólio <a href="https://portfolio-kecbm.vercel.app/" target="_blank"><b>clicando aqui</b></a></li>
-  <li>🤔 Meus hobbies são praticar exercício físico, jogar video game e ler</li>
-  <li>📝 Acesse meu curriculo <a href="https://www.cvkeep.com/cv/7e863938f1cc31f1755d834316835807" target="_blank"><b>clicando aqui</b></a></li>
-  <li>📫 Envie um email para <b>Kleciannymelo@gmail.com</b></li>
-  <li>💬 Vamos conversar? Gosto bastante de debater assuntos</li>
-  <li>⚡ Fato engraçado: faço memes de JavaScript no <a href="https://twitter.com/Kecbm" target="_blank">Twitter</a></li>
-</ul>
-<br>
-<h1>🤔 Clique nos tópicos a seguir para descobrir:<h1>
-<br>
-  <details><summary><h3>🛠 Skills</h3></summary>
-  <p>
+  <details>
+  <summary>🛠 Skills</summary>
   <div align="center" style="margin-top: 30px" style="display: inline_block">
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/></code>
   <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
@@ -39,8 +31,7 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="seuelize" height="40" width="40" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" width="40" /></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></code>
-  <code><img height="40px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" /></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/</code>
   <code><img alt="Kotlin" height="40px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /></code>
   <code><img alt="vercel" height="40px" width="40" src="https://www.svgrepo.com/show/327408/logo-vercel.svg"></code>
   <code><img alt="heroku" height="40px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" /></code>
@@ -49,14 +40,14 @@
    <code><img alt="terminal" height="40px" width="40" src="https://cdn.svgporn.com/logos/terminal.svg"></code>
   <code><img alt="npm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="eslint" height="40" width="40" /></code>
-  <code><img title="Vscode" alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+  <code><img title="Vscode" alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />     </code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" height="40" width="40" /></code>
-  <code><img title="GitHub" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-</div>
-</p>
+  <code><img title="GitHub" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />     </code>
+  </div>
 </details>
-<br>
-  <details><summary><h3>📊 Estatísticas</h3></summary>
+  <br>
+  <details>
+  <summary>📊 Estatísticas</summary>
 <p align=center>
   <div align=center>
     <a href="https://github.com/Kecbm" title="Kecbm profile">
@@ -66,18 +57,32 @@
   </div>
 </p>
 </details>
-<br>
-  <h1><img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/handshake.gif?raw=true" width="100" height="100" /> Vamos nos conectar?</h1>
+
+## 👩‍💻 Profissional
+
+Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente estou em busca de uma nova oportunidade profissional.
+
+----
+
+## 🖥 Atuacção Profissional
+
+:cloud: Software Engineer 1 - XP Inc. (09/2022 - 03/2023)
+
+## 🎓 Formação Acadêmica
+
+:newspaper_roll: Engenharia de Alimentos - UFAPE (2014 - 2021)
+
+----
+
+## 🤝 Vamos nos conectar?
   <div align="center">
   <a href="https://portfolio-kecbm.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-06D6A0?style=for-the-badge" target="_blank"></a>
-  <a href="https://trailblazer.me/id/kecbm" target="_blank"><img src="https://profile.ui.trailhead.com/images/trailblazer-me.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kecbm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/kecbm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Kecbm" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:kleciannymelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-C00021?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-</p>
-<br>
+
 <div align="center">
 <br>
   <img src="https://komarev.com/ghpvc/?username=Kecbm" alt="profile views" />
