@@ -84,7 +84,7 @@ Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente es
 <br>
 <br>
 
-## 📖 Ultimo Blog Post
+## 📖 Último Blog Post
 
 <!-- BLOG-POST-LIST:START -->
 - [Como ser uma pessoa desenvolvedora fora da curva - por Sibelius Seraphini](https://dev.to/kecbm/como-ser-um-dev-fora-da-curva-por-sseraphini-4og2)
