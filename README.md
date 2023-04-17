@@ -67,7 +67,7 @@ Também sou Desenvolvedora Web Full Stack pela Trybe.
 <p>
 <div align="center">
 <img width="564" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kecbm&theme=radical" />
-<img width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kecbm&theme=radical" />
+<img width="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kecbm&theme=radical" />
 
 </div>
 </p>
