@@ -28,6 +28,7 @@ Também sou Desenvolvedora Web Full Stack pela Trybe.
 
 <h4>Ferramentas de Utilidade</h4>
 <img title="Linux" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img title="Debian" alt="Debian" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img title="Terminal" alt="Terminal" height="40" width="40" src="https://cdn.svgporn.com/logos/terminal.svg" />
 <img title="Git" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img title="GitHub" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
