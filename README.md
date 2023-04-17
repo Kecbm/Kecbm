@@ -4,7 +4,6 @@ Tenho 27 anos e moro em Garanhuns - Pernambuco. Ingressei na área de tecnologia
 
 <br>
 <br>
-<br>
 
 ## 👩🏽‍🎓 Formação
 
@@ -74,13 +73,11 @@ Também sou Desenvolvedora Web Full Stack pela Trybe.
 
 <br>
 <br>
-<br>
 
 ## 👩🏽‍💻 Profissional
 
 Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente estou em busca de uma nova oportunidade profissional.
 
-<br>
 <br>
 <br>
 
@@ -92,7 +89,6 @@ Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente es
 
 <br>
 <br>
-<br>
 
 ----
 
@@ -102,7 +98,6 @@ Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente es
 
 <br>
 <br>
-<br>
 
 ## 🎓 Formação Acadêmica
 
@@ -110,7 +105,6 @@ Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente es
 
 👩🏽‍🔬 Engenharia de Alimentos - UFAPE (2014 - 2021)
 
-<br>
 <br>
 <br>
 
