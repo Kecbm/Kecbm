@@ -96,7 +96,7 @@ Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente es
 
 ## 🖥 Atuação Profissional
 
-🌥 Software Engineer 1 - XP Inc. (09/2022 - 03/2023)
+🏦 Software Engineer 1 - XP Inc. (09/2022 - 03/2023)
 
 🎷 Saxofonista na Orquestra Manoel Rabelo - Prefeitura Municipal de Garanhuns (01/2017 - 12/2020)
 
