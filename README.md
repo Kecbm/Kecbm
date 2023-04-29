@@ -94,6 +94,7 @@ Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente es
 ## 📖 Último Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello world em Kotlin](https://dev.to/kecbm/hello-world-em-kotlin-6de)
 - [Como ser uma pessoa desenvolvedora fora da curva - por Sibelius Seraphini](https://dev.to/kecbm/como-ser-um-dev-fora-da-curva-por-sseraphini-4og2)
 <!-- BLOG-POST-LIST:END -->
 
