@@ -91,7 +91,7 @@ Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente es
 <br>
 <br>
 
-## 📖 Último Blog Post
+## 📖 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Hello world em Kotlin](https://dev.to/kecbm/hello-world-em-kotlin-6de)
