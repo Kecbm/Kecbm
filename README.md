@@ -125,7 +125,7 @@ Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente es
 
 ----
 
-## 🤝 Vamos nos conectar?
+## 🤝🏾 Vamos nos conectar?
 
 <div align="center" style="display: inline_block">
 <a href="https://kleciannymelo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-06D6A0?style=for-the-badge" target="_blank"></a>
