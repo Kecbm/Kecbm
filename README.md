@@ -25,7 +25,6 @@ Também sou Desenvolvedora Web Full Stack pela Trybe.
 <img title="Python" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img title="C Sharp" alt="C Sharp" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 <img title="PHP" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img title="Kotlin" alt="Kotlin" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   
 <br>
 
@@ -59,12 +58,6 @@ Também sou Desenvolvedora Web Full Stack pela Trybe.
 <img title="MongoDB" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img title="Mocha" alt="Mocha" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
 <img title="Sequelize" alt="Sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-
-<br>
-
-<h4>Ferramentas Android</h4>
-<img title="Android" alt="Android" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-<img title="Adroid Studio" alt="Adroid Studio" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   
 </div>
 </p>
@@ -113,8 +106,6 @@ Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente es
 <br>
 
 ## 🎓 Formação Acadêmica
-
-📱 Grupo de Estudos e Desenvolvimento Android - Google Developer Group Poços de Caldas (04/2023)
 
 💻 Desenvolvimento Web Full Stack - Trybe (10/2021 - 12/2022)
 
