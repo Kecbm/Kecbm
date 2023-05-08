@@ -1,6 +1,6 @@
 # 👋🏽 Olá, eu sou Klecianny 
 
-Tenho 27 anos e moro em Garanhuns - Pernambuco. Ingressei na área de tecnologia por transição de carreira pois tenho 11 anos de experiência na música, sou saxofonista. Participei de diversas bandas, dentre elas a orquestra da prefeitura da minha cidade.
+Tenho 27 anos e moro em Garanhuns - Pernambuco. Ingressei na área de tecnologia por transição de carreira. Atualmente sou desenvolvedora PHP Full Stack.
 
 <br>
 <br>
@@ -79,7 +79,7 @@ Também sou Desenvolvedora Web Full Stack pela Trybe.
 
 ## 👩🏽‍💻 Profissional
 
-Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente estou em busca de uma nova oportunidade profissional.
+Ingressei no mercado de tecnologia em 2022 e atualmente sou Desenvolvedora PHP Full Stack na BR24⚡
 
 <br>
 <br>
@@ -97,6 +97,8 @@ Ingressei no mercado de tecnologia como desenvolvedora Salesforce e atuamente es
 ----
 
 ## 🖥 Atuação Profissional
+
+⚡ Desenvolvedora PHP Full Stack - BR24 (05/2023)
 
 🏦 Software Engineer 1 - XP Inc. (09/2022 - 03/2023)
 
