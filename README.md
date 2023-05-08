@@ -1,6 +1,6 @@
 # 👋🏽 Olá, eu sou Klecianny 
 
-Tenho 27 anos e moro em Garanhuns - Pernambuco. Sou mãe de pet, tenho uma pinscher, Meg. Admiro o poder de transformação que o conhecimento proporciona e sou apaixonada por tecnolgia. Pratico ciclismo e cross fit, gosto de ler, jogar vídeo game, fazer meme de JavaScript no Twitter e sou desenvolvedora PHP Full Stack.
+Tenho 27 anos e moro em Garanhuns, Pernambuco. Sou mãe de pet, tenho uma pinscher chamada Meg. Admiro o poder de transformação que o conhecimento proporciona e sou apaixonada por tecnologia. Pratico ciclismo e crossfit, gosto de ler, jogar videogame e participo da Bolha Dev no Twitter
 
 <br>
 <br>
