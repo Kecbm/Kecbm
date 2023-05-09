@@ -1,6 +1,6 @@
 # 👋🏽 Olá, eu sou Klecianny 
 
-Tenho 27 anos e moro em Garanhuns, Pernambuco. Admiro o poder da educação e sou apaixonada por tecnologia. Pratico ciclismo e crossfit, gosto de ler, jogar videogame e participo da Bolha Dev no Twitter.
+Tenho 27 e moro em Garanhuns, Pernambuco. Sou paixonada por tecnologia e acredita no poder da educação para transformar vidas. Além disso, pratico ciclismo e crossfit para me manter saudável, gosto de ler livros de diversas categorias, jogar videogames e participo ativamente da Bolha Dev no Twitter, uma comunidade de desenvolvedores que compartilha conhecimentos e experiências sobre tecnologia.
 
 <br>
 <br>
