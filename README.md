@@ -1,4 +1,4 @@
-<img title="Apresentação" alt="Apresentação" src="https://media.licdn.com/dms/image/D4D16AQHUXKa6vUiqlQ/profile-displaybackgroundimage-shrink_350_1400/0/1683041073429?e=1689206400&v=beta&t=iAaGIXjOrNrnoj9dg-LbHaI1B1MfN1Oa-sWksGtrYT8" />
+<img title="Apresentação" alt="Apresentação" src="https://pbs.twimg.com/profile_banners/1351750699617546240/1683041823/1500x500" />
 
 <br>
 <br>
