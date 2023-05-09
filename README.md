@@ -7,9 +7,7 @@ Tenho 27 anos e moro em Garanhuns, Pernambuco. Sou paixonada por tecnologia e ac
 
 ## 👩🏽‍🎓 Formação
 
-Sou Engenheira de Alimentos pela UFAPE - Universidade Federal do Agreste de Pernambuco. Durante a graduação fui monitora por 4 anos de várias matérias, a primeira delas foi algoritmos e programação de computadores, com lógica de programação em C e Java.
-
-Também sou Desenvolvedora Web Full Stack pela Trybe.
+Eu sou formada em Engenharia de Alimentos pela UFAPE - Universidade Federal do Agreste de Pernambuco. Durante a minha graduação, tive a oportunidade de ser monitora de diversas matérias, sendo a primeira delas algoritmos e programação de computadores, com foco em lógica de programação em C e Java. Recentemente me especializei como Desenvolvedora Web Full Stack pela Trybe.
 
 <details>
   <summary><h3>🛠 Skills</h3></summary>
