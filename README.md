@@ -99,7 +99,7 @@ Comecei a trabalhar no mercado de tecnologia em 2022 e atualmente sou Desenvolve
 <details>
 <summary><h3>🎥 Em Entrevistas</h3></summary>
 
-😁 [Série Muito além do código](https://www.youtube.com/watch?v=Tonfpy4eQFY&list=PLw0GGb7tHTHv3gdy39NrOrLh7TrnqjUrL)
+🤖 [Série Muito além do código - XP Inc.](https://www.youtube.com/watch?v=Tonfpy4eQFY&list=PLw0GGb7tHTHv3gdy39NrOrLh7TrnqjUrL)
   
 </details>
 
