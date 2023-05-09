@@ -1,3 +1,8 @@
+<img title="Apresentação" alt="Apresentação" src="https://media.licdn.com/dms/image/D4D16AQHUXKa6vUiqlQ/profile-displaybackgroundimage-shrink_350_1400/0/1683041073429?e=1689206400&v=beta&t=iAaGIXjOrNrnoj9dg-LbHaI1B1MfN1Oa-sWksGtrYT8" />
+
+<br>
+<br>
+
 # 👋🏽 Olá, eu sou Klecianny 
 
 Tenho 27 anos e moro em Garanhuns, Pernambuco. Sou paixonada por tecnologia e acredito no poder da educação para transformar vidas. Além disso, pratico ciclismo e crossfit para me manter saudável, gosto de ler livros de diversas categorias e jogar videogame. Participo ativamente da Bolha Dev no Twitter, uma comunidade de desenvolvedores que compartilha conhecimentos e experiências sobre o universo tecnológico.
