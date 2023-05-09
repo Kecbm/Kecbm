@@ -77,7 +77,7 @@ Eu sou formada em Engenharia de Alimentos pela UFAPE - Universidade Federal do A
 
 ## 👩🏽‍💻 Profissional
 
-Ingressei no mercado de tecnologia em 2022 e atualmente sou Desenvolvedora PHP Full Stack na BR24⚡
+Comecei a trabalhar no mercado de tecnologia em 2022 e atualmente sou Desenvolvedora PHP Full Stack na BR24⚡
 
 <br>
 <br>
