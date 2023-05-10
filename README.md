@@ -1,4 +1,4 @@
-<img title="Apresentação" alt="Apresentação" src="https://pbs.twimg.com/profile_banners/1351750699617546240/1683041823/1500x500" />
+<img title="Apresentação" alt="Apresentação" src="./assets/Capa.png" />
 
 <br>
 <br>
