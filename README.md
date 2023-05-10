@@ -104,6 +104,8 @@ Comecei a trabalhar no mercado de tecnologia em 2022 e atualmente sou Desenvolve
 <details>
 <summary><h3>🎥 Em Entrevistas</h3></summary>
 
+😎 [Profissionais contam como é trabalhar com programação - Globo](https://g1.globo.com/tecnologia/noticia/2023/05/10/ja-incentivo-meus-filhos-comeco-pode-ser-frustrante-profissionais-contam-como-e-trabalhar-com-programacao.ghtml)
+  
 🤖 [Série Muito além do código - XP Inc.](https://www.youtube.com/watch?v=Tonfpy4eQFY&list=PLw0GGb7tHTHv3gdy39NrOrLh7TrnqjUrL)
   
 </details>
