@@ -91,12 +91,12 @@ Comecei a trabalhar no mercado de tecnologia em 2022 e atualmente sou Desenvolve
 
 ## 📖 Últimos Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [CRM de Vendas: funcionalidades e o processo de vendas realizado no Bitrix24](https://br24.io/blog/controlar-meu-processo-de-vendas-com-bitrix24-crm/)
-- [Um guia prático para unificar funções em objetos com JavaScript](https://dev.to/kecbm/um-guia-pratico-para-unificar-funcoes-em-objetos-com-javascript-24g0){:target="_blank"}
-- [Hello world em Kotlin](https://dev.to/kecbm/hello-world-em-kotlin-6de){:target="_blank"}
-- [Como ser uma pessoa desenvolvedora fora da curva - por Sibelius Seraphini](https://dev.to/kecbm/como-ser-um-dev-fora-da-curva-por-sseraphini-4og2){:target="_blank"}
-<!-- BLOG-POST-LIST:END -->
+<ul>
+<li><a href="https://br24.io/blog/controlar-meu-processo-de-vendas-com-bitrix24-crm/" target="_blank">CRM de Vendas: funcionalidades e o processo de vendas realizado no Bitrix24</a></li>
+<li><a href="https://dev.to/kecbm/um-guia-pratico-para-unificar-funcoes-em-objetos-com-javascript-24g0" target="_blank">Um guia prático para unificar funções em objetos com JavaScript</a></li>
+<li><a href="https://dev.to/kecbm/hello-world-em-kotlin-6de" target="_blank">Hello world em Kotlin</a></li>
+<li><a href="https://dev.to/kecbm/como-ser-um-dev-fora-da-curva-por-sseraphini-4og2" target="_blank">Como ser uma pessoa desenvolvedora fora da curva - por Sibelius Seraphini</a></li>
+</ul>
 
 <br>
 <br>
@@ -108,9 +108,9 @@ Comecei a trabalhar no mercado de tecnologia em 2022 e atualmente sou Desenvolve
 <details>
 <summary><h3>🎥 Em Entrevistas</h3></summary>
 
-😎 [Profissionais contam como é trabalhar com programação - Globo](https://g1.globo.com/tecnologia/noticia/2023/05/10/ja-incentivo-meus-filhos-comeco-pode-ser-frustrante-profissionais-contam-como-e-trabalhar-com-programacao.ghtml){:target="_blank"}
+😎 <a href="https://g1.globo.com/tecnologia/noticia/2023/05/10/ja-incentivo-meus-filhos-comeco-pode-ser-frustrante-profissionais-contam-como-e-trabalhar-com-programacao.ghtml" target="_blank">Profissionais contam como é trabalhar com programação - Globo</a>
   
-🤖 [Série Muito além do código - XP Inc.](https://www.youtube.com/watch?v=Tonfpy4eQFY&list=PLw0GGb7tHTHv3gdy39NrOrLh7TrnqjUrL){:target="_blank"}
+🤖 <a href="https://www.youtube.com/watch?v=Tonfpy4eQFY&list=PLw0GGb7tHTHv3gdy39NrOrLh7TrnqjUrL" target="_blank">Série Muito além do código - XP Inc.</a>
   
 </details>
 
