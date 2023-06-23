@@ -92,6 +92,7 @@ Comecei a trabalhar no mercado de tecnologia em 2022 e atualmente sou Desenvolve
 ## 📖 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CRM de Vendas: funcionalidades e o processo de vendas realizado no Bitrix24](https://br24.io/blog/controlar-meu-processo-de-vendas-com-bitrix24-crm/)
 - [Um guia prático para unificar funções em objetos com JavaScript](https://dev.to/kecbm/um-guia-pratico-para-unificar-funcoes-em-objetos-com-javascript-24g0)
 - [Hello world em Kotlin](https://dev.to/kecbm/hello-world-em-kotlin-6de)
 - [Como ser uma pessoa desenvolvedora fora da curva - por Sibelius Seraphini](https://dev.to/kecbm/como-ser-um-dev-fora-da-curva-por-sseraphini-4og2)
