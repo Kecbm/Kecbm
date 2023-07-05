@@ -53,7 +53,8 @@ Sou formada em Engenharia de Alimentos pela UFAPE - Universidade Federal do Agre
 <img title="Redux" alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 <img title="React Testing Library" alt="React Testing Library" width="40" height="40" src="https://testing-library.com/img/logo-large.png" />
 <img title="Bootstrap" alt="Bootstrap" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />        
-<img title="Styled Components" alt="Styled Components" height="80" width="80" src="https://github.githubassets.com/images/icons/emoji/unicode/1f485.png" /> <img title="Figma" alt="Figma" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
+<img title="Styled Components" alt="Styled Components" height="80" width="80" src="https://github.githubassets.com/images/icons/emoji/unicode/1f485.png" />
+<img title="Figma" alt="Figma" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
 <br>
   
 <h4>Ferramentas Back-end</h4>
