@@ -98,6 +98,7 @@ Comecei a trabalhar no mercado de tecnologia em 2022 e atualmente sou Desenvolve
 ## 📖 Últimos Blog Posts
 
 <ul>
+<li><a href="https://br24.io/blog/chatgpt-entenda-como-funciona/" target="_blank">ChatGPT: o que é, como funciona, limitações, ferramentas e atualizações GPT-5</a></li>
 <li><a href="https://dev.to/kecbm/como-otimizar-sua-semana-de-leitura-dicas-praticas-e-eficazes-480b" target="_blank">Como otimizar sua semana de leitura: dicas práticas e eficazes</a></li>
 <li><a href="https://br24.io/blog/controlar-meu-processo-de-vendas-com-bitrix24-crm/" target="_blank">CRM de Vendas: funcionalidades e o processo de vendas realizado no Bitrix24</a></li>
 <li><a href="https://dev.to/kecbm/um-guia-pratico-para-unificar-funcoes-em-objetos-com-javascript-24g0" target="_blank">Um guia prático para unificar funções em objetos com JavaScript</a></li>
