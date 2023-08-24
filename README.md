@@ -47,6 +47,7 @@ Sou formada em Engenharia de Alimentos pela UFAPE - Universidade Federal do Agre
 <img title="Docker" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <img title="Pytest" alt="Pytest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
 <img title="Markdown" alt="Markdown" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img title="AWS" alt="AWS" height="40" width="40" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
 <br>
 
 <h4>Ferramentas Front-end</h4>
