@@ -99,7 +99,7 @@ Comecei a trabalhar no mercado de tecnologia em 2022 e atualmente sou Desenvolve
 ## 🌎 Projetos Open Source
 
 <ul>
-<li><a href="https://tretadev.vercel.app/" target="_blank">Treta Dev 🔥</a></li>
+<li><a href="https://tretadev.vercel.app/" target="_blank">🔥 Treta Dev</a></li>
 </ul>
 
 <br>
