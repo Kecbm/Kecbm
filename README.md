@@ -79,7 +79,7 @@ Sou formada em Engenharia de Alimentos pela UFAPE - Universidade Federal do Agre
 <p>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kecbm&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&username=kecbm" height="183" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=radical&hide_border=true&username=kecbm" height="183" alt="languages graph"  />
 <img src="https://github-readme-stats.vercel.app/api?username=Kecbm&theme=radical&hide_border=true" height="183" />
 
 </div>
