@@ -112,7 +112,7 @@ Comecei a trabalhar no mercado de tecnologia em 2022 e atualmente sou Desenvolve
 Minhas contibuições em projetos de código aberto são:
 
 <ul>
-<li><a href="https://github.com/codante-io/rinha-frontend/graphs/contributors" target="_blank">🐧 Rinha de Frontend</a>: organizei a lista de arquivos JSON em ordem crescente de acordo com o tamanho e adicionei essa informação à lista</li>
+<li><a href="https://github.com/codante-io/rinha-frontend/commit/d9a8b8345d34d76b933bdd73b882cba36aca0cb3" target="_blank">🐧 Rinha de Frontend</a>: organizei a lista de arquivos JSON em ordem crescente de acordo com o tamanho e adicionei essa informação à lista</li>
 </ul>
 
 <br>
