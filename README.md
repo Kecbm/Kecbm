@@ -18,7 +18,7 @@ I have a degree in Food Engineering from UFAPE - Federal University of Agreste d
   <summary><h3>🛠 Skills</h3></summary>
 <p>
 <div>
-<h4>📝 Languages</h4>
+<h4>Languages</h4>
 <img title="C" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
 <img title="Java" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img title="HTML" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -31,7 +31,7 @@ I have a degree in Food Engineering from UFAPE - Federal University of Agreste d
   
 <br>
 
-<h4>🧰 Utility Tools</h4>
+<h4>Utility Tools</h4>
 <img title="Linux" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img title="Debian" alt="Debian" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img title="Terminal" alt="Terminal" height="40" width="40" src="https://cdn.svgporn.com/logos/terminal.svg" />
@@ -51,7 +51,7 @@ I have a degree in Food Engineering from UFAPE - Federal University of Agreste d
 <img title="AWS" alt="AWS" height="40" width="40" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
 <br>
 
-<h4>🎨 Frontend Tools</h4>
+<h4>Frontend Tools</h4>
 <img title="React" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img title="Redux" alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 <img title="React Testing Library" alt="React Testing Library" width="40" height="40" src="https://testing-library.com/img/logo-large.png" />
@@ -60,7 +60,7 @@ I have a degree in Food Engineering from UFAPE - Federal University of Agreste d
 <img title="Figma" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
 <br>
   
-<h4>🗂️ Backend Tools</h4>
+<h4>Backend Tools</h4>
 <img title="Node.JS" alt="Node.JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img title="Laravel" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 <img title="Nest.JS" alt="Nest.JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />              
