@@ -3,22 +3,22 @@
 <br>
 <br>
 
-# 👋🏽 Olá, eu sou Klecianny 
+# 👋🏽 Hello, I'm Klecianny
 
-Tenho 27 anos e moro em Garanhuns, Pernambuco. Sou apaixonada por tecnologia e acredito no poder da educação para transformar vidas. Além disso, pratico ciclismo e crossfit para me manter saudável, gosto de ler livros de diversas categorias e jogar videogame. Participo ativamente da Bolha Dev no Twitter, uma comunidade de desenvolvedores que compartilha conhecimentos e experiências sobre o universo tecnológico.
+I'm 27 years old and I live in Garanhuns, Pernambuco. I am passionate about technology and believe in the power of education to transform lives. In addition, I practice cycling and crossfit to stay healthy, I like reading books from different categories and playing video games. I actively participate in the Bolha Dev on Twitter, a community of developers who share knowledge and experiences about the technological universe.
 
 <br>
 <br>
 
-## 👩🏽‍🎓 Formação
+## 👩🏽‍🎓 Training
 
-Sou formada em Engenharia de Alimentos pela UFAPE - Universidade Federal do Agreste de Pernambuco. Durante a minha graduação, tive a oportunidade de ser monitora de diversas matérias, sendo a primeira delas algoritmos e programação de computadores, com foco em lógica de programação em C e Java. Recentemente me especializei como Desenvolvedora Web Full Stack pela Trybe.
+I have a degree in Food Engineering from UFAPE - Federal University of Agreste de Pernambuco. During my undergraduate studies, I had the opportunity to tutor several subjects, the first of which was algorithms and computer programming, focusing on programming logic in C and Java. I recently specialized as a Full Stack Web Developer at Trybe.
 
 <details>
   <summary><h3>🛠 Skills</h3></summary>
 <p>
 <div>
-<h4>Linguagens</h4>
+<h4>📝 Languages</h4>
 <img title="C" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
 <img title="Java" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img title="HTML" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -31,7 +31,7 @@ Sou formada em Engenharia de Alimentos pela UFAPE - Universidade Federal do Agre
   
 <br>
 
-<h4>Ferramentas de Utilidade</h4>
+<h4>🧰 Utility Tools</h4>
 <img title="Linux" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img title="Debian" alt="Debian" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img title="Terminal" alt="Terminal" height="40" width="40" src="https://cdn.svgporn.com/logos/terminal.svg" />
@@ -51,7 +51,7 @@ Sou formada em Engenharia de Alimentos pela UFAPE - Universidade Federal do Agre
 <img title="AWS" alt="AWS" height="40" width="40" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
 <br>
 
-<h4>Ferramentas Front-end</h4>
+<h4>🎨 Frontend Tools</h4>
 <img title="React" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img title="Redux" alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 <img title="React Testing Library" alt="React Testing Library" width="40" height="40" src="https://testing-library.com/img/logo-large.png" />
@@ -60,7 +60,7 @@ Sou formada em Engenharia de Alimentos pela UFAPE - Universidade Federal do Agre
 <img title="Figma" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
 <br>
   
-<h4>Ferramentas Back-end</h4>
+<h4>🗂️ Backend Tools</h4>
 <img title="Node.JS" alt="Node.JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img title="Laravel" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 <img title="Nest.JS" alt="Nest.JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />              
@@ -76,7 +76,7 @@ Sou formada em Engenharia de Alimentos pela UFAPE - Universidade Federal do Agre
 </details>
 
 <details>
-<summary><h3>📊 Estatísticas</h3></summary>
+<summary><h3>📊 Statistics</h3></summary>
 <p>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kecbm&theme=radical" />
@@ -90,35 +90,35 @@ Sou formada em Engenharia de Alimentos pela UFAPE - Universidade Federal do Agre
 <br>
 <br>
 
-## 👩🏽‍💻 Profissional
+## 👩🏽‍💻 Professional
 
-Comecei a trabalhar no mercado de tecnologia em 2022 e atualmente sou Desenvolvedora PHP Full Stack na BR24⚡
+I started working in the technology market in 2022 and am currently a Full Stack PHP Developer at BR24⚡
 
 <br>
 <br>
 
-## 🌎 Projetos Open Source
+## 🌎 Open Source Projects
 
 <ul>
-<li><a href="https://rinhadebackend.vercel.app/" target="_blank">🐓 Rinha de Backend</a></li>
+<li><a href="https://rinhadebackend.vercel.app/" target="_blank">🐓 Backend Rinha</a></li>
 <li><a href="https://tretadev.vercel.app/" target="_blank">🔥 Treta Dev</a></li>
 </ul>
 
 <br>
 <br>
 
-## 📑 Contribuições Open Source
+## 📑 Open Source Contributions
 
-Minhas contibuições em projetos de código aberto são:
+My contributions to open source projects are:
 
 <ul>
-<li><a href="https://github.com/codante-io/rinha-frontend/commit/d9a8b8345d34d76b933bdd73b882cba36aca0cb3" target="_blank">🐧 Rinha de Frontend</a>: organizei a lista de arquivos JSON em ordem crescente de acordo com o tamanho e adicionei essa informação à lista</li>
+<li><a href="https://github.com/codante-io/rinha-frontend/commit/d9a8b8345d34d76b933bdd73b882cba36aca0cb3" target="_blank">🐧 Frontend Rinha</a>: i organized the list of JSON files in ascending order according to size and added this information to the list</li>
 </ul>
 
 <br>
 <br>
 
-## 📖 Últimos Blog Posts
+## 📖 Latest Blog Posts
 
 <ul>
 <li><a href="https://br24.io/blog/cronograma-de-projeto/" target="_blank">Cronograma de Projeto: o que é, como funciona, como montar e vantagens</a></li>
@@ -133,10 +133,10 @@ Minhas contibuições em projetos de código aberto são:
 
 ----
 
-## 🤠 Participações
+## 🤠 Participations
 
 <details>
-<summary><h3>🎥 Em Entrevistas</h3></summary>
+<summary><h3>🎥 In Interviews</h3></summary>
 
 😎 <a href="https://g1.globo.com/tecnologia/noticia/2023/05/10/ja-incentivo-meus-filhos-comeco-pode-ser-frustrante-profissionais-contam-como-e-trabalhar-com-programacao.ghtml" target="_blank">Profissionais contam como é trabalhar com programação - Globo</a>
   
@@ -147,29 +147,29 @@ Minhas contibuições em projetos de código aberto são:
 <br>
 <br>
 
-## 🖥 Atuação Profissional
+## 🖥 Professional Performance
 
-⚡ Desenvolvedora PHP Full Stack - BR24 (05/2023)
+⚡ Full Stack PHP Developer - BR24 (05/2023)
 
 🏦 Software Engineer 1 - XP Inc. (09/2022 - 03/2023)
 
-🎷 Saxofonista na Orquestra Manoel Rabelo - Prefeitura Municipal de Garanhuns (01/2017 - 12/2020)
+🎷 Saxophonist at the Manoel Rabelo Orchestra - Garanhuns City Hall (01/2017 - 12/2020)
 
 <br>
 <br>
 
-## 🎓 Formação Acadêmica
+## 🎓 Academic Education
 
-💻 Desenvolvimento Web Full Stack - Trybe (10/2021 - 12/2022)
+💻 Full Stack Web Development - Trybe (10/2021 - 12/2022)
 
-👩🏽‍🔬 Engenharia de Alimentos - Universidade Federal do Agreste de Pernambuco (01/2014 - 05/2021)
+👩🏽‍🔬 Food Engineering - Universidade Federal do Agreste de Pernambuco (01/2014 - 05/2021)
 
 <br>
 <br>
 
 ----
 
-## 🤝🏾 Vamos nos conectar?
+## 🤝🏾 Let's connect?
 
 <div align="center" style="display: inline_block">
 <a href="https://kleciannymelo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-06D6A0?style=for-the-badge" target="_blank"></a>
