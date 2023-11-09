@@ -177,7 +177,6 @@ My contributions to open source projects are:
 <a href="https://www.figma.com/@kecbm" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/Kecbm" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://dev.to/kecbm" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" /></a>
-<a href="https://codepen.io/kecbm" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
 <a href="https://www.instagram.com/kecbm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:kleciannymelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-C00021?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.strava.com/athletes/kecbm"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" target="_blank" /></a>
