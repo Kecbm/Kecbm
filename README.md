@@ -118,11 +118,11 @@ My contributions to open source projects are:
 ## 📖 Latest Blog Posts
 
 <ul>
+<li><a href="https://dev.to/kecbm/the-power-of-active-listening-for-developers-2pd5" target="_blank">The Power of Active Listening for Developers</a></li>
 <li><a href="https://br24.io/blog/cronograma-de-projeto/" target="_blank">Cronograma de Projeto: o que é, como funciona, como montar e vantagens</a></li>
 <li><a href="https://br24.io/blog/chatgpt-entenda-como-funciona/" target="_blank">ChatGPT: o que é, como funciona, limitações, ferramentas e atualizações GPT-5</a></li>
 <li><a href="https://dev.to/kecbm/como-otimizar-sua-semana-de-leitura-dicas-praticas-e-eficazes-480b" target="_blank">Como otimizar sua semana de leitura: dicas práticas e eficazes</a></li>
 <li><a href="https://br24.io/blog/controlar-meu-processo-de-vendas-com-bitrix24-crm/" target="_blank">CRM de Vendas: funcionalidades e o processo de vendas realizado no Bitrix24</a></li>
-<li><a href="https://br24.io/blog/kpis/" target="_blank">KPIs: o que são, para que servem, vantagens e dicas de como aplicar</a></li>
 </ul>
 
 <br>
