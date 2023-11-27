@@ -106,7 +106,7 @@ I started working in the technology market in 2022 and am currently a Full Stack
 
 ## 📑 Open Source Contributions
 
-My contributions to open source projects are:
+My contribution to open source project is:
 
 <ul>
 <li><a href="https://github.com/codante-io/rinha-frontend/commit/d9a8b8345d34d76b933bdd73b882cba36aca0cb3" target="_blank">🐧 Frontend Rinha</a>: i organized the list of JSON files in ascending order according to size and added this information to the list</li>
