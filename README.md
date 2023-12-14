@@ -106,10 +106,11 @@ I started working in the technology market in 2022 and am currently a Full Stack
 
 ## 📑 Open Source Contributions
 
-My contribution to open source project is:
+My contribution to open source project are:
 
 <ul>
 <li><a href="https://github.com/codante-io/rinha-frontend/commit/d9a8b8345d34d76b933bdd73b882cba36aca0cb3" target="_blank">🐧 Frontend Rinha</a>: i organized the list of JSON files in ascending order according to size and added this information to the list</li>
+<li><a href="https://github.com/msfidelis" target="_blank">🦕 Matheus Fidelis</a> <a href="https://github.com/msfidelis/personal-blog" target="_blank">Personal Blog</a>: i review articles</li>
 </ul>
 
 <br>
