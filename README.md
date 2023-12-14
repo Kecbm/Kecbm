@@ -96,10 +96,8 @@ I started working in the technology market in 2022 and am currently a Full Stack
 
 ## 🌎 Open Source Projects
 
-<ul>
-<li><a href="https://rinhadebackend.vercel.app/" target="_blank">🐓 Backend Rinha</a></li>
-<li><a href="https://tretadev.vercel.app/" target="_blank">🔥 Treta Dev</a></li>
-</ul>
+- [`🐓 Backend Rinha`](https://rinhadebackend.vercel.app/)
+- [`🔥 Treta Dev`](https://tretadev.vercel.app/)
 
 <br>
 <br>
