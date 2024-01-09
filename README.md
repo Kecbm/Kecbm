@@ -132,6 +132,8 @@ My contribution to open source project are:
 <details>
 <summary><h3>🎥 In Interviews</h3></summary>
 
+💜 <a href="https://www.instagram.com/reel/C1UtOU5LvUY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D" target="_blank">Como a UX para Minas Pretas fez diferença na minha vida em 2023</a>
+
 😎 <a href="https://g1.globo.com/tecnologia/noticia/2023/05/10/ja-incentivo-meus-filhos-comeco-pode-ser-frustrante-profissionais-contam-como-e-trabalhar-com-programacao.ghtml" target="_blank">Profissionais contam como é trabalhar com programação - Globo</a>
   
 🤖 <a href="https://www.youtube.com/watch?v=Tonfpy4eQFY&list=PLw0GGb7tHTHv3gdy39NrOrLh7TrnqjUrL" target="_blank">Série Muito além do código - XP Inc.</a>
