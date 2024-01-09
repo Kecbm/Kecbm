@@ -1,4 +1,4 @@
-<img title="Apresentação" alt="Apresentação" src="./assets/Capa.png" />
+<img title="Apresentação" alt="Apresentação" src="./assets/Couver-2024.png" />
 
 <br>
 <br>
