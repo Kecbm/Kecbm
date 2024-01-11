@@ -31,26 +31,6 @@ I have a degree in Food Engineering from UFAPE - Federal University of Agreste d
   
 <br>
 
-<h4>Utility Tools</h4>
-<img title="Linux" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-<img title="Debian" alt="Debian" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
-<img title="Terminal" alt="Terminal" height="40" width="40" src="https://cdn.svgporn.com/logos/terminal.svg" />
-<img title="Git" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img title="GitHub" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img title="NPM" alt="NPM" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-<img title="Eslint" alt="Eslint" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
-<img title="Vscode" alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img title="Markdown" alt="Markdown" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-<img title="Notion" alt="Notion" height="40" width="40" src="https://img.icons8.com/glyph-neue/64/notion.png"/>
-<img title="Vercel" alt="Vercel" height="40" width="40" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" />
-<img title="Heroku" alt="Heroku" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-<img title="Trello" alt="Trello" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-<img title="Jest" alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
-<img title="Docker" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-<img title="Pytest" alt="Pytest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
-<img title="AWS" alt="AWS" height="40" width="40" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
-<br>
-
 <h4>Frontend Tools</h4>
 <img title="React" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img title="Redux" alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
@@ -70,7 +50,28 @@ I have a degree in Food Engineering from UFAPE - Federal University of Agreste d
 <img title="Express" alt="Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img title="Sequelize" alt="Sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 <img title="Mocha" alt="Mocha" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-  
+
+<br>
+
+<h4>Utility Tools</h4>
+<img title="Linux" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img title="Debian" alt="Debian" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+<img title="Terminal" alt="Terminal" height="40" width="40" src="https://cdn.svgporn.com/logos/terminal.svg" />
+<img title="Git" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img title="GitHub" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img title="NPM" alt="NPM" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img title="Eslint" alt="Eslint" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+<img title="Vscode" alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img title="Markdown" alt="Markdown" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img title="Notion" alt="Notion" height="40" width="40" src="https://img.icons8.com/glyph-neue/64/notion.png"/>
+<img title="Vercel" alt="Vercel" height="40" width="40" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" />
+<img title="Heroku" alt="Heroku" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+<img title="Trello" alt="Trello" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+<img title="Jest" alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
+<img title="Docker" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+<img title="Pytest" alt="Pytest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
+<img title="AWS" alt="AWS" height="40" width="40" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
+
 </div>
 </p>
 </details>
