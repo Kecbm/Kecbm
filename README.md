@@ -5,7 +5,7 @@
 
 # 👋🏽 Hello, I'm Klecianny
 
-I'm 27 years old and I live in Garanhuns, Pernambuco. I am passionate about technology and believe in the power of education to transform lives. In addition, I practice cycling and crossfit to stay healthy, I like reading books from different categories and playing video games. I actively participate in the Bolha Dev on Twitter, a community of developers who share knowledge and experiences about the technological universe.
+I'm 27 years old and I live in Garanhuns, Pernambuco. I am passionate about technology and believe in the power of education to transform lives. In addition, I practice cycling to stay healthy, I like reading books from different categories and playing video games. I actively participate in the Bolha Dev on Twitter, a community of developers who share knowledge and experiences about the technological universe.
 
 <br>
 <br>
