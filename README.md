@@ -1,4 +1,4 @@
-<img title="Apresentação" alt="Apresentação" src="./assets/Couver.png" />
+<img title="My social networks" alt="My social networks" src="./assets/Couver.png" />
 
 <br>
 <br>
