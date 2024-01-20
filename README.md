@@ -82,7 +82,6 @@ I have a degree in Food Engineering from UFAPE - Federal University of Agreste d
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kecbm&theme=radical" width="100%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=radical&hide_border=true&username=kecbm" width="100%" alt="languages graph"  />  
 <img src="https://github-readme-stats.vercel.app/api?username=Kecbm&theme=radical&hide_border=true" width="100%" />
-<iframe src="https://hackerrank-badge.herokuapp.com/kecbm" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
 
 </details>
 
