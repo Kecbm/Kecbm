@@ -98,8 +98,8 @@ I started working in the technology market in 2022 and am currently a Full Stack
 ## 🌎 Open Source Projects
 
 - [`💜 Dev Basement Book Club`](https://github.com/Kecbm/book-club): i started the Book Club to study English and explore the vast universe of technology alongside other Brazilian developers;
-- [`🐓 Backend Rinha`](https://rinhadebackend.vercel.app/)
-- [`🔥 Treta Dev`](https://tretadev.vercel.app/)
+- [`🐓 Backend Rinha`](https://rinhadebackend.vercel.app/): all the details about the first edition of the competition for backend developers;
+- [`🔥 Treta Dev`](https://tretadev.vercel.app/): landing page of the renowned Bolha Dev repository;
 
 <br>
 <br>
