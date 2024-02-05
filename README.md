@@ -97,6 +97,7 @@ I started working in the technology market in 2022 and am currently a Full Stack
 
 ## 🌎 Open Source Projects
 
+- [`💜 Basement Dev Book Club`](https://github.com/Kecbm/book-club): i started the Book Club to study English and explore the vast universe of technology alongside other Brazilian developers;
 - [`🐓 Backend Rinha`](https://rinhadebackend.vercel.app/)
 - [`🔥 Treta Dev`](https://tretadev.vercel.app/)
 
@@ -107,8 +108,8 @@ I started working in the technology market in 2022 and am currently a Full Stack
 
 My contribution to open source project are:
 
-- [`🦕 Matheus Fidelis Personal Blog`](https://github.com/msfidelis/personal-blog): i review articles
-- [`🐧 Frontend Rinha`](https://github.com/codante-io/rinha-frontend/commit/d9a8b8345d34d76b933bdd73b882cba36aca0cb3): i organized the list of JSON files in ascending order according to size and added this information to the list
+- [`🦕 Matheus Fidelis Personal Blog`](https://github.com/msfidelis/personal-blog): i review articles;
+- [`🐧 Frontend Rinha`](https://github.com/codante-io/rinha-frontend/commit/d9a8b8345d34d76b933bdd73b882cba36aca0cb3): i organized the list of JSON files in ascending order according to size and added this information to the list;
 
 <br>
 <br>
