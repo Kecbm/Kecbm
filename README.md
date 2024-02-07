@@ -160,7 +160,7 @@ My contribution to open source project are:
 
 💻 Full Stack Web Development - Trybe (10/2021 - 12/2022)
 
-👩🏽‍🔬 Food Engineering - Universidade Federal do Agreste de Pernambuco (01/2014 - 05/2021)
+👩🏽‍🔬 Food Engineering - Federal University of Agreste de Pernambuco (01/2014 - 05/2021)
 
 <br>
 <br>
