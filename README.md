@@ -117,11 +117,11 @@ My contribution to open source project are:
 ## 📖 Latest Blog Posts
 
 <ul>
+<li><a href=https://dev.to/kecbm/voce-deve-trabalhar-pra-voce-por-zarathon-viana-ldj" target="_blank">Você deve trabalhar pra você Por Zarathon Viana</a></li>
 <li><a href="https://dev.to/kecbm/sum-of-the-diagonals-of-a-matrice-g0f" target="_blank">Sum of the diagonals of a matrice</a></li>
 <li><a href="https://dev.to/kecbm/de-volta-ao-codigo-como-conquistei-minha-realocacao-no-mercado-de-tecnologia-4n5n" target="_blank">De Volta ao Código: Como Conquistei Minha Realocação no Mercado de Tecnologia</a></li>
 <li><a href="https://br24.io/blog/playbook/" target="_blank">O que é Playbook: benefícios, funcionalidades e como utilizar de uma forma estratégica</a></li>
 <li><a href="https://dev.to/kecbm/the-power-of-active-listening-for-developers-2pd5" target="_blank">The Power of Active Listening for Developers</a></li>
-<li><a href="https://br24.io/blog/cronograma-de-projeto/" target="_blank">Cronograma de Projeto: o que é, como funciona, como montar e vantagens</a></li>
 </ul>
 
 <br>
