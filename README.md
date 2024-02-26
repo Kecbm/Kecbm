@@ -133,8 +133,7 @@ My contribution to open source project are:
 
 ## 🤠 Participations
 
-<details>
-<summary><h3>🎥 In Interviews</h3></summary>
+<details><summary><h3>🎥 In Interviews</h3></summary>
 
 💜 <a href="https://www.instagram.com/reel/C1UtOU5LvUY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D" target="_blank">Como a UX para Minas Pretas fez diferença na minha vida em 2023</a>
 
