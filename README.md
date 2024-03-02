@@ -5,14 +5,14 @@
 
 # 👋🏽 Hello, I'm Klecianny
 
-I'm 27 years old and I live in Garanhuns, Pernambuco. I am passionate about technology and believe in the power of education to transform lives. In addition, I practice cycling to stay healthy, I like reading books from different categories and playing video games. I actively participate in the Bolha Dev on Twitter, a community of developers who share knowledge and experiences about the technological universe.
+I focus my efforts on driving code quality and leading innovative initiatives, such as encouraging the use of Codeium AI. I actively share knowledge through articles on the Br24 blog and on my Dev.to profile. Outside of the technological world, I cycle to stay healthy. My journey is one of continuous learning and collaboration in the development community.
 
 <br>
 <br>
 
-## 👩🏽‍🎓 Training
+## 👩🏽‍🎓 Academic Training
 
-I have a degree in Food Engineering from UFAPE - Federal University of Agreste de Pernambuco. During my undergraduate studies, I had the opportunity to tutor several subjects, the first of which was algorithms and computer programming, focusing on programming logic in C and Java. I recently specialized as a Full Stack Web Developer at Trybe.
+I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. During my undergraduate studies, I had the opportunity to teach several subjects, the first of which was algorithms and computer programming, focusing on programming logic in C and Java. I recently specialized as a Full Stack Web Developer at Trybe.
 
 <details>
   <summary><h3>🛠 Skills</h3></summary>
@@ -90,7 +90,7 @@ I have a degree in Food Engineering from UFAPE - Federal University of Agreste d
 
 ## 👩🏽‍💻 Professional
 
-I started working in the technology market in 2022 and am currently a Full Stack PHP Developer at BR24⚡
+I have 10 years of experience in music and am currently a Full Stack Developer at BR24⚡
 
 <br>
 <br>
