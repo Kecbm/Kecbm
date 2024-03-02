@@ -1,7 +1,5 @@
 <img title="My social networks" alt="My social networks" src="./assets/Couver.png" />
 
-<!-- Teste Codeium -->
-
 <br>
 <br>
 
