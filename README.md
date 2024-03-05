@@ -119,11 +119,11 @@ My contribution to open source project are:
 ## 📖 Latest Blog Posts
 
 <ul>
+<li><a href="https://dev.to/kecbm/time-conversion-383d" target="_blank">⌚ Time conversion</a></li>
 <li><a href="https://dev.to/kecbm/codigo-legado-razoes-para-respeitar-e-valorizar-4e9o" target="_blank">🗃️ Código Legado: Razões para Respeitar e Valorizar</a></li>
 <li><a href="https://dev.to/kecbm/staircase-detail-112g" target="_blank">🪜 Staircase detail</a></li>
 <li><a href="https://dev.to/kecbm/voce-deve-trabalhar-pra-voce-por-zarathon-viana-ldj" target="_blank">💼 Você deve trabalhar pra você Por Zarathon Viana</a></li>
 <li><a href="https://dev.to/kecbm/sum-of-the-diagonals-of-a-matrice-g0f" target="_blank">🧮 Sum of the diagonals of a matrice</a></li>
-<li><a href="https://dev.to/kecbm/de-volta-ao-codigo-como-conquistei-minha-realocacao-no-mercado-de-tecnologia-4n5n" target="_blank">👩🏾‍💻 De Volta ao Código: Como Conquistei Minha Realocação no Mercado de Tecnologia</a></li>
 </ul>
 
 <br>
