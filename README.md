@@ -120,11 +120,11 @@ My contribution to open source project are:
 ## 📖 Latest Blog Posts
 
 <ul>
+<li><a href="https://dev.to/kecbm/grading-students-5eok" target="_blank">📝 Grading students</a></li>
+<li><a href="https://dev.to/kecbm/por-que-e-vital-aprender-a-dizer-nao-no-ambiente-profissional-cc3" target="_blank">❌ Por que é vital aprender a dizer não no ambiente profissional</a></li>
 <li><a href="https://dev.to/kecbm/time-conversion-383d" target="_blank">⌚ Time conversion</a></li>
 <li><a href="https://dev.to/kecbm/codigo-legado-razoes-para-respeitar-e-valorizar-4e9o" target="_blank">🗃️ Código Legado: Razões para Respeitar e Valorizar</a></li>
 <li><a href="https://dev.to/kecbm/staircase-detail-112g" target="_blank">🪜 Staircase detail</a></li>
-<li><a href="https://dev.to/kecbm/voce-deve-trabalhar-pra-voce-por-zarathon-viana-ldj" target="_blank">💼 Você deve trabalhar pra você Por Zarathon Viana</a></li>
-<li><a href="https://dev.to/kecbm/sum-of-the-diagonals-of-a-matrice-g0f" target="_blank">🧮 Sum of the diagonals of a matrice</a></li>
 </ul>
 
 <br>
