@@ -93,7 +93,7 @@ I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. D
 
 ## 👩🏽‍💻 Professional
 
-I have 10 years of experience in music and am currently a Full Stack Developer at BR24⚡
+I am currently a Full Stack Developer at BR24⚡
 
 <br>
 <br>
@@ -111,7 +111,7 @@ I have 10 years of experience in music and am currently a Full Stack Developer a
 
 My contribution to open source project are:
 
-- [`🦕 Matheus Fidelis Personal Blog`](https://github.com/msfidelis/personal-blog): i review articles;
+- [`🦕 Matheus Fidelis Personal Blog`](https://github.com/msfidelis/personal-blog): i review articles about Kubernetes, AWS, Arquitetura, Terraform, Containers, System-Design and Cloud;
 - [`🐧 Frontend Rinha`](https://github.com/codante-io/rinha-frontend/commit/d9a8b8345d34d76b933bdd73b882cba36aca0cb3): i organized the list of JSON files in ascending order according to size and added this information to the list;
 
 <br>
