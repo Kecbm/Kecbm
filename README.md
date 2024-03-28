@@ -120,11 +120,11 @@ My contribution to open source project are:
 ## 📖 Latest Blog Posts
 
 <ul>
+<li><a href="https://dev.to/kecbm/apple-and-orange-2g82" target="_blank">🍎 Apple and Orange</a></li>
 <li><a href="https://dev.to/kecbm/como-participar-da-bolha-dev-no-twitter-um-guia-para-desenvolvedores-11ol" target="_blank">🐦 Como Participar da Bolha Dev no Twitter: Um Guia para Desenvolvedores</a></li>
 <li><a href="https://dev.to/kecbm/grading-students-5eok" target="_blank">📝 Grading students</a></li>
 <li><a href="https://dev.to/kecbm/por-que-e-vital-aprender-a-dizer-nao-no-ambiente-profissional-cc3" target="_blank">❌ Por que é vital aprender a dizer não no ambiente profissional</a></li>
 <li><a href="https://dev.to/kecbm/time-conversion-383d" target="_blank">⌚ Time conversion</a></li>
-<li><a href="https://dev.to/kecbm/codigo-legado-razoes-para-respeitar-e-valorizar-4e9o" target="_blank">🗃️ Código Legado: Razões para Respeitar e Valorizar</a></li>
 </ul>
 
 <br>
