@@ -121,11 +121,11 @@ My contribution to open source project are:
 ## 📖 Latest Blog Posts
 
 <ul>
+<li><a href="https://dev.to/kecbm/divisible-sum-pairs-159h" target="_blank">🧮 Divisible sum pairs</a></li>
 <li><a href="https://dev.to/kecbm/como-cultivar-empatia-com-os-colegas-da-squad-dicas-para-um-ambiente-de-trabalho-saudavel-3fkj" target="_blank">🤗 Como Cultivar Empatia com os Colegas da Squad: Dicas para um Ambiente de Trabalho Saudável</a></li>
 <li><a href="https://dev.to/kecbm/desenvolvimento-orientado-ao-mvp-minimo-produto-viavel-km4" target="_blank">🛹 Desenvolvimento Orientado ao MVP (Mínimo Produto Viável)</a></li>
 <li><a href="https://dev.to/kecbm/number-line-jumps-1ig" target="_blank">🦘 Number Line Jumps</a></li>
 <li><a href="https://dev.to/kecbm/como-um-portfolio-pode-impulsionar-sua-carreira-5dk6" target="_blank">🖥️ Como um Portfólio Pode Impulsionar sua Carreira</a></li>
-<li><a href="https://dev.to/kecbm/apple-and-orange-2g82" target="_blank">🍎 Apple and Orange</a></li>
 </ul>
 
 <br>
