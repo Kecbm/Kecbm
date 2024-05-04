@@ -32,7 +32,6 @@ I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. D
 <h4>Frontend Tools</h4>
 <img title="HTML" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img title="React" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img title="Next" alt="Next" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img title="Redux" alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 <img title="CSS" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 <img title="React Testing Library" alt="React Testing Library" width="40" height="40" src="https://testing-library.com/img/logo-large.png" />
