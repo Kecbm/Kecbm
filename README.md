@@ -5,7 +5,7 @@
 
 # 👋🏽 Hello, I'm Klecianny
 
-I focus my efforts on driving code quality and leading innovative initiatives, such as encouraging the use of Codeium AI. I actively share knowledge through articles on the Br24 blog and on my Dev.to profile. Outside of the technological world, I cycle to stay healthy. My journey is one of continuous learning and collaboration in the development community.
+I focus my efforts on driving code quality and leading innovative initiatives, such as encouraging the use of AI. I actively share knowledge through articles on my Dev.to profile. Outside of the technological world, I cycle to stay healthy. My journey is one of continuous learning and collaboration in the development community.
 
 <br>
 <br>
