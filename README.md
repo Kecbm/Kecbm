@@ -112,6 +112,7 @@ I am currently a Full Stack Developer at BR24⚡
 My contribution to open source project are:
 
 - [`🦕 Matheus Fidelis Personal Blog`](https://github.com/msfidelis/personal-blog): i review articles about Kubernetes, AWS, Architecture, Terraform, Containers, System-Design and Cloud;
+- [`🆘 sos-enchentes`](https://github.com/sidssouza/sos-enchentes): i improved the pop-up design by adding a closed icon;
 - [`🐧 Frontend Rinha`](https://github.com/codante-io/rinha-frontend/commit/d9a8b8345d34d76b933bdd73b882cba36aca0cb3): i organized the list of JSON files in ascending order according to size and added this information to the list;
 
 <br>
