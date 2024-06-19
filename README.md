@@ -127,7 +127,7 @@ My contribution to open source project are:
 I write 1 article per week, about leetcoode or a career in technology.
 
 - [`💻 My profile on Dev.to`](https://dev.to/kecbm)
-  - **10,700**+ **views**, **2,600**+ **followers** and **760**+ **reactions**;
+  - **11,100**+ **views**, **3,100**+ **followers** and **780**+ **reactions**;
   - Awarded with 2x "**Top 7**" and "**8 Week Community Wellness Streak**" badges.
 
 <br>
