@@ -5,7 +5,15 @@
 
 # 👋🏽 Hello, I'm Klecianny
 
-I focus my efforts on driving code quality and leading innovative initiatives, such as encouraging the use of AI. I actively share knowledge through articles on my Dev.to profile. Outside of the technological world, I cycle to stay healthy. My journey is one of continuous learning and collaboration in the development community.
+Hello, I'm Klecianny Melo, a dedicated software engineer with a background in both frontend and backend development. Currently, I work as a full stack developer, where I prioritize the quality of my deliverables and constantly strive to provide the best solutions. My commitment to continuous improvement drives me to study and enhance my skills daily.
+
+I am actively engaged in the tech community, learning from the experiences of my peers and sharing my own knowledge. I write a weekly article on various topics including career advice, soft skills, algorithms, and business insights.
+
+In my studies, I focus on developing side projects and openly sharing my progress through a build-in-public approach. I firmly believe in the transformative power of education and the potential of technology to make the world a better place.
+
+Additionally, I bring valuable lessons from my 10-year journey in the music industry, where I performed with various ensembles, including the orchestra of my hometown. These experiences have enriched my perspective and enhance my capabilities as a developer.
+
+Let's connect and have a conversation?
 
 <br>
 <br>
