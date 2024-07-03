@@ -55,7 +55,6 @@ I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. D
 <img title="Nest.JS" alt="Nest.JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 <img title="Laravel" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 <img title="MySQL" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img title="GraphQL" alt="GraphQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />       
 <img title="MongoDB" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img title="PostgreSQL" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img title="Sequelize" alt="Sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
