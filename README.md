@@ -142,11 +142,11 @@ I write 1 article per week, about various topics including career advice, soft s
 ## 📖 Latest Blog Posts
 
 <ul>
+<li><a href="https://dev.to/kecbm/pessoas-desenvolvedoras-precisam-estudar-todos-os-dias-5dea" target="_blank">📚 Pessoas desenvolvedoras precisam estudar todos os dias</a></li>
 <li><a href="https://dev.to/kecbm/a-importancia-da-comunicacao-para-uma-pessoa-desenvolvedora-4349" target="_blank">🗣️  A importância da Comunicação para uma pessoa desenvolvedora</a></li>
 <li><a href="https://dev.to/kecbm/breaking-records-55ji" target="_blank">🏆 Breaking Records</a></li>
 <li><a href="https://dev.to/kecbm/o-poder-das-tarefas-como-pequenas-entregas-levam-a-grandes-resultados-2of6" target="_blank">🧩 O Poder das Tarefas: Como Pequenas Entregas Levam a Grandes Resultados</a></li>
 <li><a href="https://dev.to/kecbm/divisible-sum-pairs-159h" target="_blank">🧮 Divisible sum pairs</a></li>
-<li><a href="https://dev.to/kecbm/como-cultivar-empatia-com-os-colegas-da-squad-dicas-para-um-ambiente-de-trabalho-saudavel-3fkj" target="_blank">🤗 Como Cultivar Empatia com os Colegas da Squad: Dicas para um Ambiente de Trabalho Saudável</a></li>
 </ul>
 
 <br>
