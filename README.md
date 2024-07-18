@@ -5,8 +5,6 @@
 
 # 👋🏽 Hello, I'm Klecianny
 
-New phrase for test
-
 Hello, I'm Klecianny Melo, a dedicated software engineer with a background in both frontend and backend development. Currently, I work as a full stack developer, where I prioritize the quality of my deliverables and constantly strive to provide the best solutions. My commitment to continuous improvement drives me to study and enhance my skills daily.
 
 I am actively engaged in the tech community, learning from the experiences of my peers and sharing my own knowledge. I write a weekly article on various topics including career advice, soft skills, algorithms, and business insights.
