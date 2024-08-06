@@ -93,8 +93,19 @@ I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. D
 <summary><h3>📊 Statistics</h3></summary>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kecbm&theme=radical" width="100%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=radical&hide_border=true&username=kecbm" width="100%" alt="languages graph"  />
-<img src="https://github-readme-stats.vercel.app/api?username=Kecbm&theme=radical&hide_border=true" width="100%" />
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kecbm&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kecbm&theme=radical&hide_border=true" width="100%" />
+</td>
+</tr>
+</table>
+
 </details>
 
 <br>
