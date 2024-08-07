@@ -64,7 +64,7 @@ I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. D
 
 <br>
 
-<h4>Testing Tools Tools</h4>
+<h4>Testing Tools</h4>
 <img title="React Testing Library" alt="React Testing Library" width="40" height="40" src="https://testing-library.com/img/logo-large.png" />
 <img title="Jest" alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
 <img title="Mocha" alt="Mocha" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
@@ -72,7 +72,7 @@ I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. D
 
 <br>
 
-<h4>DevOps Tools Tools</h4>
+<h4>DevOps Tools</h4>
 <img title="Docker" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <img title="Vercel" alt="Vercel" height="40" width="40" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" />
 <img title="Heroku" alt="Heroku" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
