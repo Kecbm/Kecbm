@@ -65,8 +65,8 @@ I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. D
 <br>
 
 <h4>Testing Tools</h4>
-<img title="React Testing Library" alt="React Testing Library" width="40" height="40" src="https://testing-library.com/img/logo-large.png" />
 <img title="Jest" alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
+<img title="React Testing Library" alt="React Testing Library" width="40" height="40" src="https://testing-library.com/img/logo-large.png" />
 <img title="Mocha" alt="Mocha" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
 <img title="Pytest" alt="Pytest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
 
