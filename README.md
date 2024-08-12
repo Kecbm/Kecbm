@@ -202,6 +202,8 @@ I write 1 article per week, about various topics including career advice, soft s
 
 ## 🎓 Academic Education
 
+🏗️ Container Architecture on AWS - LINUXTips (08/2024 - current)
+
 💻 Full Stack Web Development - Trybe (10/2021 - 12/2022)
 
 👩🏽‍🔬 Food Engineering - Federal University of Agreste de Pernambuco (01/2014 - 05/2021)
