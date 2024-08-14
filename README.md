@@ -152,7 +152,7 @@ My contribution to open source project are:
 I write 1 article per week, about various topics including career advice, soft skills, algorithms, and business insights.
 
 - [`💻 My profile on Dev.to`](https://dev.to/kecbm)
-  - **12,190**+ **views**, **3,580**+ **followers** and **840**+ **reactions**;
+  - **12,200**+ **views**, **3,580**+ **followers** and **840**+ **reactions**;
   - Awarded with 2x "**Top 7**" and "**8 Week Community Wellness Streak**" badges.
 
 <br>
