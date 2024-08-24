@@ -157,9 +157,9 @@ I write 1 article per week, about various topics including career advice, soft s
 
 - [`💻 My profile on Dev.to`](https://dev.to/kecbm)
   
-  - 👀 **12,200** views;
+  - 👀 **12,280** views;
   - 👥 **3,580** followers;
-  - 👍🏾 **840** reactions;
+  - 👍🏾 **850** reactions;
   - 📰 **24** articles.
  
   - Awarded with 2x "**Top 7**" and "**8 Week Community Wellness Streak**" badges.
