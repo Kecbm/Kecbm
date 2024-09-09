@@ -223,15 +223,15 @@ I write 1 article per week, about various topics including career advice, soft s
 ## 🤝🏾 Let's connect?
 
 <div align="center" style="display: inline_block">
-<a href="https://kleciannymelo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-06D6A0?style=for-the-badge" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kecbm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.figma.com/@kecbm" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
+<a href="https://kleciannymelo.vercel.app/" target="_blank"><img title="Portfolio" alt="Portfolio" src="https://img.shields.io/badge/-Portfólio-06D6A0?style=for-the-badge" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kecbm/" target="_blank"><img title="LinkedIn" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.figma.com/@kecbm" target="_blank"><img title="Figma" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
 <!-- <a href="https://twitter.com/Kecbm" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> -->
-<a href="https://bsky.app/profile/kecbm.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" target="_blank"></a>
-<a href="https://dev.to/kecbm" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" /></a>
-<a href="https://www.instagram.com/kecbm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:kleciannymelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-C00021?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.strava.com/athletes/kecbm"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" target="_blank" /></a>
+<a href="https://bsky.app/profile/kecbm.bsky.social" target="_blank"><img title="Bluesky" alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" target="_blank"></a>
+<a href="https://dev.to/kecbm" target="_blank"><img title="Dev.to" alt="Dev.to" src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" /></a>
+<a href="https://www.instagram.com/kecbm/" target="_blank"><img title="Instagram" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:kleciannymelo@gmail.com"><img title="Email" alt="Email" src="https://img.shields.io/badge/Gmail-C00021?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.strava.com/athletes/kecbm"><img title="Strava" alt="Strava" src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" target="_blank" /></a>
 </div>
 
 <br>
