@@ -198,6 +198,8 @@ I write 1 article per week, about various topics including career advice, soft s
 
 ## 🖥 Professional Performance
 
+<!-- ⚖️ or 🎓 -->
+
 ⚡ Full Stack Developer - BR24 (05/2023 - current)
 
 🏦 Software Engineer 1 - XP Inc. (09/2022 - 03/2023)
