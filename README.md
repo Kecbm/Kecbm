@@ -198,7 +198,7 @@ I write 1 article per week, about various topics including career advice, soft s
 
 ## 🖥 Professional Performance
 
-<!-- 🎓 👀 -->
+<!-- 🎓 -->
 
 ⚡ Full Stack Developer - BR24 (05/2023 - current)
 
