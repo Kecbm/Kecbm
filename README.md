@@ -120,12 +120,15 @@ I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. D
 
 </details>
 
+<!--
 <br>
 <br>
 
 ## 👩🏽‍💻 Professional
 
 I am currently a Full Stack Developer at BR24⚡
+
+-->
 
 <br>
 <br>
@@ -193,12 +196,13 @@ I write 1 article per week, about various topics including career advice, soft s
   
 </details>
 
+<!--
 <br>
 <br>
 
 ## 🖥 Professional Performance
 
-<!-- 🎓 -->
+🎓
 
 ⚡ Full Stack Developer - BR24 (05/2023 - current)
 
@@ -216,6 +220,8 @@ I write 1 article per week, about various topics including career advice, soft s
 💻 Full Stack Web Development - Trybe (10/2021 - 12/2022)
 
 👩🏽‍🔬 Food Engineering - Federal University of Agreste de Pernambuco (01/2014 - 05/2021)
+
+-->
 
 <br>
 <br>
