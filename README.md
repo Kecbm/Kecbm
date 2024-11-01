@@ -98,6 +98,7 @@ I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. D
 <img title="Eslint" alt="Eslint" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
 <img title="Vscode" alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img title="Markdown" alt="Markdown" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img title="Jira" alt="Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 <img title="Trello" alt="Trello" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 <img title="Notion" alt="Notion" height="40" width="40" src="https://img.icons8.com/glyph-neue/64/notion.png"/>
 
