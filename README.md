@@ -93,6 +93,7 @@ I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. D
 <img title="Windows" alt="Windows" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 <img title="Debian" alt="Debian" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img title="Terminal" alt="Terminal" height="40" width="40" src="https://cdn.svgporn.com/logos/terminal.svg" />
+<img title="PowerShell" alt="PowerShell" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 <img title="Git" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img title="GitHub" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img title="NPM" alt="NPM" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
