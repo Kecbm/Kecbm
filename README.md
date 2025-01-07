@@ -137,7 +137,7 @@ I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. D
 
 ## 👩🏽‍💻 Professional
 
-I am currently a Mid Level Full Stack Developer at [Eduzz](https://www.eduzz.com/) 🎓
+I am currently a Mid Level Full Stack Developer at [Eduzz](https://www.eduzz.com/) 💛
 
 <br>
 <br>
