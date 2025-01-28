@@ -5,15 +5,11 @@
 
 # 👋🏽 Hello, I'm Klecianny
 
-Hello, I'm Klecianny Melo, a dedicated software engineer with a background in both frontend and backend development. Currently, I work as a full stack developer, where I prioritize the quality of my deliverables and constantly strive to provide the best solutions. My commitment to continuous improvement drives me to study and enhance my skills daily.
+Specializing in end-to-end solutions, I work on API development with .NET, RabbitMQ, SQL Server, MongoDB, and Redis, and on creating modern and responsive interfaces with React and Ant Design. I utilize DevOps practices with tools like Jenkins, Kubernetes, Sentry, and Axiom to ensure optimized and reliable workflows, in addition to performing financial integrations with gateways such as Iugu.
 
-I am actively engaged in the tech community, learning from the experiences of my peers and sharing my own knowledge. I write a weekly article on various topics including career advice, soft skills, algorithms, and business insights.
+As a content creator on DEV Community, I share insights on careers, problem-solving, and growth in technology, with over 24 published articles, 12,200 views, and 3,580 followers.
 
-In my studies, I focus on developing side projects and openly sharing my progress through a build-in-public approach. I firmly believe in the transformative power of education and the potential of technology to make the world a better place.
-
-Additionally, I bring valuable lessons from my 10-year journey in the music industry, where I performed with various ensembles, including the orchestra of my hometown. These experiences have enriched my perspective and enhance my capabilities as a developer.
-
-Let's connect and have a conversation?
+Let’s connect and have a chat?
 
 <br>
 <br>
