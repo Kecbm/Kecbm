@@ -5,9 +5,29 @@
 
 # 👋🏽 Hello, I'm Klecianny
 
-Specializing in end-to-end solutions, I work on API development with .NET, RabbitMQ, SQL Server, MongoDB, and Redis, and on creating modern and responsive interfaces with React and Ant Design. I utilize DevOps practices with tools like Jenkins, Kubernetes, Sentry, and Axiom to ensure optimized and reliable workflows, in addition to performing financial integrations with gateways such as Iugu.
+As a Software Developer, my goal is to drive organizations in creating innovative and robust solutions, delivering high-performance products that meet their customers' needs.
+
+I offer a range of services, including:
+
+- Full stack software development
+- Frontend software development
+- Backend software development
+
+Stack:
+
+- Front end: HTML, CSS, Javascript, Typescript, React
+
+- Back end: Node.js, .NET
+
+- Database: Postgres, MongoDB, MySQL
+
+- Ops: Jenkins, Docker, Git, Kubernetes
+
+My mission is to develop core business functionalities, ensuring scalability and efficiency, while quickly identifying and fixing potential bugs to maintain high product quality and reliability.
 
 As a content creator on DEV Community, I share insights on careers, problem-solving, and growth in technology, with over 24 published articles, 12,200 views, and 3,580 followers.
+
+In my free time, I enjoy going to the gym to keep my mind and body active, riding my bike, reading books, and playing PlayStation 2.
 
 Let’s connect and have a chat?
 
