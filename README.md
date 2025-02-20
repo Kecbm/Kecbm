@@ -19,7 +19,7 @@ Stack:
 
 - Back end: Node.js, .NET
 
-- Database: Postgres, MongoDB, MySQL
+- Database: Postgres, MongoDB, MySQL, SQLServer
 
 - Ops: Jenkins, Docker, Git, Kubernetes
 
