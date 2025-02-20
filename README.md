@@ -227,9 +227,9 @@ I write 1 article per week, about various topics including career advice, soft s
 
 ## 🖥 Professional Performance
 
-🎓 Mid Level Full Stack Developer - Eduzz (10/2023 - current)
+🎓 Mid Level Full Stack Developer - Eduzz (10/2024 - current)
 
-⚡ Full Stack Developer - BR24 (05/2023 - 10/2023)
+⚡ Full Stack Developer - BR24 (05/2023 - 10/2024)
 
 🏦 Software Engineer 1 - XP Inc. (09/2022 - 03/2023)
 
