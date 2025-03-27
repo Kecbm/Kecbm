@@ -190,7 +190,7 @@ My contribution to open source project are:
 
 ## ✍🏾 Author
 
-I write 1 article per week, about various topics including career advice, soft skills, algorithms, and business insights.
+I write 2 articles per month, about various topics including career advice, soft skills, algorithms, and business insights.
 
 - [`💻 My profile on Dev.to`](https://dev.to/kecbm)
   
