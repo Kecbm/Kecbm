@@ -207,11 +207,11 @@ I write 1 article per week, about various topics including career advice, soft s
 ## 📖 Latest Blog Posts
 
 <ul>
+<li><a href="https://dev.to/kecbm/technical-and-business-refinement-why-tech-teams-cannot-ignore-it-43i5" target="_blank">🛠️ Technical and Business Refinement: Why Tech Teams Cannot Ignore It</a></li>
 <li><a href="https://dev.to/kecbm/pessoas-desenvolvedoras-precisam-estudar-todos-os-dias-5dea" target="_blank">📚 Pessoas desenvolvedoras precisam estudar todos os dias</a></li>
 <li><a href="https://dev.to/kecbm/a-importancia-da-comunicacao-para-uma-pessoa-desenvolvedora-4349" target="_blank">🗣️  A importância da Comunicação para uma pessoa desenvolvedora</a></li>
 <li><a href="https://dev.to/kecbm/breaking-records-55ji" target="_blank">🏆 Breaking Records</a></li>
 <li><a href="https://dev.to/kecbm/o-poder-das-tarefas-como-pequenas-entregas-levam-a-grandes-resultados-2of6" target="_blank">🧩 O Poder das Tarefas: Como Pequenas Entregas Levam a Grandes Resultados</a></li>
-<li><a href="https://dev.to/kecbm/divisible-sum-pairs-159h" target="_blank">🧮 Divisible sum pairs</a></li>
 </ul>
 
 <br>
