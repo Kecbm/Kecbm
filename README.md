@@ -170,9 +170,9 @@ I am currently a Mid Level Full Stack Developer at [Eduzz](https://www.eduzz.com
 
 My contribution to open source project are:
 
-- [`🌍 awesome-made-by-brazilians`](https://github.com/felipefialho/awesome-made-by-brazilians/pull/182): i added the css2wind project in the list of open source projects;
+- [`🌍 Awesome Made By Brazilians`](https://github.com/felipefialho/awesome-made-by-brazilians/pull/182): i added the css2wind project in the list of open source projects;
 - [`🦕 Matheus Fidelis Personal Blog`](https://github.com/msfidelis/personal-blog): i reviewed articles about Kubernetes, AWS, Architecture, Terraform, Containers, System-Design and Cloud;
-- [`🖼️ markdown-badges`](https://github.com/Ileriayo/markdown-badges/pull/805): i added 10 new badges;
+- [`🖼️ Markdown Badges`](https://github.com/Ileriayo/markdown-badges/pull/805): i added 10 new badges;
 
 <br>
 
@@ -180,7 +180,7 @@ My contribution to open source project are:
   <summary><h3>📑 Others Contributions</h3></summary>
 
   - [`🐧 Frontend Rinha`](https://github.com/codante-io/rinha-frontend/commit/d9a8b8345d34d76b933bdd73b882cba36aca0cb3): i organized the list of JSON files in ascending order according to size and added this information to the list;
-  - [`🆘 sos-enchentes`](https://github.com/sidssouza/sos-enchentes): i improved the pop-up design by adding a closed icon;
+  - [`🆘 SOS Enchentes`](https://github.com/sidssouza/sos-enchentes): i improved the pop-up design by adding a closed icon;
 </details>
 
 <br>
