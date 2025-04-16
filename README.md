@@ -5,7 +5,7 @@
 
 # 👋🏽 Hello, I'm Klecianny
 
-As a Software Developer, my goal is to drive organizations in creating innovative and robust solutions, delivering high-performance products that meet their customers' needs.
+As a Software Engineer, my goal is to drive organizations in creating innovative and robust solutions, delivering high-performance products that meet their customers' needs.
 
 I offer a range of services, including:
 
