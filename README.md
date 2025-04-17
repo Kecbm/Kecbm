@@ -225,7 +225,7 @@ I write 2 articles per month, about various topics including career advice, soft
 <details>
 <summary><h3>🎥 In Interviews</h3></summary>
 
-- 💾 <a href="https://www.youtube.com/live/qZiMzaFZsb4?si=IeOiss6Gf-N4Tiq5" target="_blank">Palestra De Volta ao Código no GitHub Brasil</a>
+- 💾 <a href="https://www.twitch.tv/videos/2435200518" target="_blank">Palestra De Volta ao Código no GitHub Brasil</a>
 - 💻 <a href="https://www.linkedin.com/posts/kooperecooperativa_na-koopere-acreditamos-na-melhoria-cont%C3%ADnua-activity-7287448880298782721-nER5/?utm_source=share&utm_medium=member_desktop" target="_blank">Experiência de trabalho na Koopere</a>
 - 💜 <a href="https://www.instagram.com/reel/C1UtOU5LvUY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D" target="_blank">Como a UX para Minas Pretas fez diferença na minha vida em 2023</a>
 - 👩🏾‍💻 <a href="https://g1.globo.com/tecnologia/noticia/2023/05/10/ja-incentivo-meus-filhos-comeco-pode-ser-frustrante-profissionais-contam-como-e-trabalhar-com-programacao.ghtml" target="_blank">Profissionais contam como é trabalhar com programação - Globo</a>
