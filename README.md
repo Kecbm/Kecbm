@@ -244,7 +244,7 @@ I write 2 articles per month, about various topics including career advice, soft
 
 🏦 Software Engineer 1 - XP Inc. (09/2022 - 03/2023)
 
-🎷 Saxophonist at the Manoel Rabelo Orchestra - Garanhuns City Hall (01/2017 - 12/2020)
+<!-- 🎷 Saxophonist at the Manoel Rabelo Orchestra - Garanhuns City Hall (01/2017 - 12/2020) -->
 
 <br>
 <br>
