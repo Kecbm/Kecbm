@@ -181,7 +181,7 @@ My contribution to open source project are:
 
   - [`🎨 KawaiiLogos`](https://github.com/SAWARATSUKI/KawaiiLogos/pull/197): I add the português README translation;
   - [`🐧 Frontend Rinha`](https://github.com/codante-io/rinha-frontend/commit/d9a8b8345d34d76b933bdd73b882cba36aca0cb3): i organized the list of JSON files in ascending order according to size and added this information to the list;
-  - [`🆘 SOS Enchentes`](https://github.com/sidssouza/sos-enchentes): i improved the pop-up design by adding a closed icon;
+  - [`🆘 SOS Enchentes`](https://github.com/sidssouza/sos-enchentes/pull/1): i improved the pop-up design by adding a closed icon;
 </details>
 
 <br>
