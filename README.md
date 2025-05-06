@@ -240,7 +240,7 @@ I write 2 articles per month, about various topics including career advice, soft
 
 ## 🖥 Professional Performance
 
-🎓 Mid Level Full Stack Developer - Eduzz (10/2024 - current)
+🎓 Mid Level Full Stack Developer - Eduzz (10/2024 - 05/2025)
 
 ⚡ Full Stack Developer - BR24 (05/2023 - 10/2024)
 
