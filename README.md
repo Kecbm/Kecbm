@@ -56,6 +56,7 @@ I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. D
 <img title="Redux" alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 <img title="Bootstrap" alt="Bootstrap" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img title="Ant Design" alt="Ant Design" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" />
+<img title="Material UI" alt="Material UI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />         
 <img title="Tailwindcss" alt="Tailwindcss" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
 <br>
