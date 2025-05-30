@@ -86,6 +86,7 @@ I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. D
 <img title="Docker" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <img title="Vercel" alt="Vercel" height="40" width="40" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" />
 <img title="Jenkins" alt="Jenkins" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+<img title="Grafana" alt="Grafana" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
 
 <br>
 
