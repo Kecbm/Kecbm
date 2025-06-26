@@ -5,25 +5,12 @@
 
 # 👋🏽 Hello, I'm Klecianny
 
-As a Software Engineer AI First, my goal is to drive organizations in creating innovative and robust solutions, delivering high-performance products that meet their customers' needs.
+As a Software Developer AI First, I have 4 years of experience in software development with experience in languages and frameworks such as:
 
-I offer a range of services, including:
-
-- Full stack software development
-- Frontend software development
-- Backend software development
-
-Stack:
-
-- Front end: HTML, CSS, Javascript, Typescript, React
-
-- Back end: Node.js, .NET
-
-- Database: Postgres, MongoDB, MySQL, SQLServer
-
-- Ops: Jenkins, Docker, Git, Kubernetes
-
-My mission is to develop core business functionalities, ensuring scalability and efficiency, while quickly identifying and fixing potential bugs to maintain high product quality and reliability.
+- 🎨 Front end: HTML, CSS, Javascript, Typescript, React
+- ⚙️ Back end: Node.js, .NET, Python
+- 💾 Database: Postgres, MongoDB, MySQL, SQLServer
+- 🛠️ Ops: Jenkins, Docker, Git, Kubernetes
 
 As a content creator on DEV Community, I share insights on careers, problem-solving, and growth in technology, with over 24 published articles, 12,200 views, and 3,580 followers.
 
