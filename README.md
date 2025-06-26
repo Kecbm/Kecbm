@@ -14,7 +14,7 @@ As a Software Developer AI First, I have 4 years of experience in software devel
 
 As a content creator on DEV Community, I share insights on careers, problem-solving, and growth in technology, with over 24 published articles, 12,200 views, and 3,580 followers.
 
-In my free time, I enjoy going to the gym to keep my mind and body active, riding my bike, reading books, and playing PlayStation 2.
+In my free time, I enjoy going to the gym to keep my mind and body active, riding my bike, reading books, and playing PlayStation 3.
 
 Let’s connect and have a chat?
 
