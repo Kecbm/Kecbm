@@ -5,7 +5,7 @@
 
 # 👋🏽 Hello, I'm Klecianny
 
-As a Software Developer AI First, I have 4 years of experience in software development with experience in languages and frameworks such as:
+As a Software Developer AI First, I have 3 years of experience in software development with experience in languages and frameworks such as:
 
 - 🎨 Front end: HTML, CSS, Javascript, Typescript, React
 - ⚙️ Back end: Node.js, .NET, Python
