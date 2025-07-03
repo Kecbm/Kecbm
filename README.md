@@ -230,6 +230,7 @@ I write 2 articles per month, about various topics including career advice, soft
 ## 🤝🏾 Let's connect?
 
 <div align="center" style="display: inline_block">
+<!-- New version of my portfolio?: https://www.lukeberrypi.com/ -->
 <a href="https://kleciannymelo.vercel.app/" target="_blank"><img title="Portfolio" alt="Portfolio" src="https://img.shields.io/badge/-Portfólio-06D6A0?style=for-the-badge" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kecbm/" target="_blank"><img title="LinkedIn" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.figma.com/@kecbm" target="_blank"><img title="Figma" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
