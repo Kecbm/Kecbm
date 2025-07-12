@@ -92,22 +92,14 @@ I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. D
 <details>
 <summary><h3>📊 Statistics</h3></summary>
 
-<table align="center" style="background-color: transparent;">
-<tr border="none">
-  <td colspan="2" align="center">
-    <img width="100%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kecbm&theme=radical" />
-  </td>
-</tr>
-<tr border="none">
-<td width="50%" align="center">
-  <img width="100%" height="100%" align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kecbm&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact"/>
-</td>
+<div align="center">
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kecbm&theme=radical" />
+</div>
 
-<td width="50%" align="center">
-  <img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Kecbm&theme=radical&hide_border=true" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kecbm&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kecbm&theme=radical&hide_border=true" />
+</div>
 
 </details>
 
