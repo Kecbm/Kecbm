@@ -12,7 +12,8 @@ As a Software Developer AI First, I have 3 years of experience in software devel
 - 💾 Database: Postgres, MongoDB, MySQL, SQLServer
 - 🛠️ Ops: Jenkins, Docker, Git, Kubernetes
 
-As a content creator on DEV Community, I share insights on careers, problem-solving, and growth in technology, with over 24 published articles, 12,200 views, and 3,580 followers.
+<!-- Use the Dev.to api for get status -->
+As a content creator on DEV Community, I share insights on careers, problem-solving, and growth in technology, with over 24 published articles, 14,300 views, and 3,600 followers.
 
 In my free time, I enjoy going to the gym to keep my mind and body active, riding my bike, reading books, and playing PlayStation 3.
 
