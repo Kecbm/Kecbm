@@ -202,7 +202,7 @@ I write 2 articles per month, about various topics including career advice, soft
 
 ⚡ Full Stack Developer - BR24 (05/2023 - 10/2024)
 
-🏦 Software Engineer 1 - XP Inc. (09/2022 - 03/2023)
+🏦 Software Engineer - XP Inc. (09/2022 - 03/2023)
 
 <!-- 🎷 Saxophonist at the Manoel Rabelo Orchestra - Garanhuns City Hall (01/2017 - 12/2020) -->
 
