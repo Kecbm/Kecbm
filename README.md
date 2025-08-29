@@ -120,6 +120,7 @@ I am currently a Software Engineer AI First at
 ## 🌎 Open Source Projects
 
 - [`Vocab master`](): description + GIF's;
+url: mastervocab.vercel.app
 
 <br>
 <br>
