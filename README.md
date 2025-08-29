@@ -5,11 +5,11 @@
 
 # 👋🏽 Hello, I'm Klecianny
 
-As a Software Developer AI First, I have 3 years of experience in software development with experience in languages and frameworks such as:
+As a Software Engineer AI First, I have 3 years of experience in software development with expertise in languages and frameworks such as:
 
-- 🎨 Front end: HTML, CSS, Javascript, Typescript, React
+- 🎨 Front end: HTML, CSS, JavaScript, Typescript, React
 - ⚙️ Back end: Node.js, .NET, Python
-- 💾 Database: Postgres, MongoDB, MySQL, SQLServer
+- 💾 Database: Postgres, MongoDB, MySQL, SQL Server
 - 🛠️ Ops: Jenkins, Docker, Git, Kubernetes
 
 <!-- Use the Dev.to api for get status -->
@@ -110,19 +110,20 @@ I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. D
 <!--
 ## 👩🏽‍💻 Professional
 
-I am currently a Mid Level Full Stack Developer at 
+I am currently a Software Engineer AI First at 
 
 <br>
 <br>
 -->
 
+<!--
 ## 🌎 Open Source Projects
 
-- [`🐓 Backend Rinha`](https://rinhadebackend.vercel.app/): all the details about the first edition of the competition for backend developers;
-- [`🔥 Treta Dev`](https://tretadev.vercel.app/): landing page of the renowned Bolha Dev repository;
+- [`Vocab master`](): description + GIF's;
 
 <br>
 <br>
+-->
 
 ## 🗂️ Open Source Contributions
 
@@ -153,8 +154,8 @@ I write 2 articles per month, about various topics including career advice, soft
 
 - [`💻 My profile on Dev.to`](https://dev.to/kecbm)
   
-  - 👀 **+12,700** views;
-  - 👥 **+3,500** followers;
+  - 👀 **+14,300** views;
+  - 👥 **+3,600** followers;
   - 👍🏾 **+800** reactions;
   - 📰 **+20** articles.
  
@@ -198,7 +199,7 @@ I write 2 articles per month, about various topics including career advice, soft
 
 <!-- ⚖️ -->
 
-🎓 Mid Level Full Stack Developer - Eduzz (10/2024 - 05/2025)
+🎓 Mid-Level Full Stack Developer - Eduzz (10/2024 - 05/2025)
 
 ⚡ Full Stack Developer - BR24 (05/2023 - 10/2024)
 
@@ -223,8 +224,7 @@ I write 2 articles per month, about various topics including career advice, soft
 ## 🤝🏾 Let's connect?
 
 <div align="center" style="display: inline_block">
-<!-- New version of my portfolio: https://www.lukeberrypi.com/ -->
-<a href="https://kleciannymelo.vercel.app/" target="_blank"><img title="Portfolio" alt="Portfolio" src="https://img.shields.io/badge/-Portfólio-06D6A0?style=for-the-badge" target="_blank"></a>
+<a href="https://kecbm.vercel.app/" target="_blank"><img title="Portfolio" alt="Portfolio" src="https://img.shields.io/badge/-Portfólio-06D6A0?style=for-the-badge" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kecbm/" target="_blank"><img title="LinkedIn" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/Kecbm" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <!-- <a href="https://bsky.app/profile/kecbm.bsky.social" target="_blank"><img title="Bluesky" alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" target="_blank"></a> -->
