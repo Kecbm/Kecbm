@@ -122,6 +122,56 @@ I am currently a Software Engineer AI First at
 - [`Vocab master`](): description + GIF's;
 url: mastervocab.vercel.app
 
+📖 Vocab Master – Aprenda Vocabulário Sem Interromper Sua Leitura
+
+Transforme sua leitura em uma experiência de aprendizado de idiomas poderosa.
+Com o Vocab Master, você não perde o ritmo: capture, traduza e estude novas palavras em inglês ou francês enquanto lê livros, artigos ou qualquer conteúdo.
+
+✨ Principais Diferenciais
+
+🚀 Captura Instantânea → adicione palavras com um clique e obtenha tradução automática.
+
+🧠 Aprendizado Inteligente → organize por status: New, Learning, Mastered.
+
+📚 Foco no Contexto → relacione cada palavra ao livro ou artigo em que você a encontrou.
+
+🎧 Pronúncia Autêntica → ouça como a palavra realmente soa com vozes nativas.
+
+📊 Progresso Visível → estatísticas em tempo real sobre seu vocabulário e leitura.
+
+🎬 Demonstrações em GIFs (conteúdos que você pode gravar):
+
+Adicionando uma palavra nova
+
+Mostrar a busca, tradução automática e salvamento com animação suave.
+
+Status da palavra mudando (New → Learning → Mastered)
+
+Dar um ar gamificado, como se fosse subir de nível.
+
+Filtro por status e busca em tempo real
+
+Usuário digita “chapter” e encontra instantaneamente entre centenas de palavras.
+
+Pronúncia da palavra
+
+Mostrar o clique no ícone de som e a palavra sendo lida em voz nativa.
+
+Dashboard com estatísticas
+
+Mostrar o gráfico crescendo conforme novas palavras são adicionadas.
+
+Relacionando palavra a um livro
+
+Exibir o card de uma palavra e um rótulo “Django 5 by Example 📘”.
+
+🌟 Chamado Final
+
+“Não deixe palavras desconhecidas atrapalharem sua leitura.
+Com o Vocab Master, cada página vira uma oportunidade de aprender.”
+
+👉 Acesse o projeto
+
 <br>
 <br>
 -->
