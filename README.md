@@ -181,24 +181,6 @@ My contribution to open source project are:
 <br>
 <br>
 
-----
-
-## ✍🏾 Author
-
-I write 2 articles per month, about various topics including career advice, soft skills, algorithms, and business insights.
-
-- [`💻 My profile on Dev.to`](https://dev.to/kecbm)
-  
-  - 👀 **+14,300** views;
-  - 👥 **+3,600** followers;
-  - 👍🏾 **+800** reactions;
-  - 📰 **+20** articles.
- 
-  - Awarded with 2x "**Top 7**" and "**8 Week Community Wellness Streak**" badges.
- 
-<br>
-<br>
-
 ## 📖 Latest Blog Posts
 
 <ul>
