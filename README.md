@@ -142,12 +142,6 @@ Com o Vocab Master, você não perde o ritmo: capture, traduza e estude novas pa
 🔎 Encontre qualquer palavra em segundos
 <img title="Adicionando uma nova palavra" alt="My social networks" src="./assets/3.filters.gif" />
 
-🔊 Ouça e aprenda como um nativo
-<video width="640" height="360" controls>
-  <source src="./assets/pronuciation.mov" type="video/mp4">
-  Seu navegador não suporta a tag de vídeo.
-</video>
-
 “Não deixe palavras desconhecidas atrapalharem sua leitura.
 Com o Vocab Master, cada página vira uma oportunidade de aprender.”
 
