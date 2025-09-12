@@ -131,7 +131,8 @@ Com o Vocab Master, você não perde o ritmo: capture, traduza e estude novas pa
 - 🎧 Pronúncia Autêntica → ouça como a palavra realmente soa com vozes nativas.
 - 📊 Progresso Visível → estatísticas em tempo real sobre seu vocabulário e leitura.
 
-## 🎬 Demonstrações em GIFs:
+<details>
+  <summary><h3>🎬 Demonstrações</h3></summary>
 
 📚 Adicione novas palavras e veja a mágica acontecer
 <img title="Adicionando uma nova palavra" alt="My social networks" src="./assets/1.add.gif" />
@@ -141,6 +142,7 @@ Com o Vocab Master, você não perde o ritmo: capture, traduza e estude novas pa
 
 🔎 Encontre qualquer palavra em segundos
 <img title="Adicionando uma nova palavra" alt="My social networks" src="./assets/3.filters.gif" />
+</details>
 
 “Não deixe palavras desconhecidas atrapalharem sua leitura.
 Com o Vocab Master, cada página vira uma oportunidade de aprender.”
