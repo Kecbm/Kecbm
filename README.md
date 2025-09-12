@@ -116,7 +116,7 @@ I am currently a Software Engineer AI First at
 <br>
 -->
 
-## 🌎 Open Source Project
+## 🌎 Side Project
 
 ### 📖 Vocab Master – Aprenda Vocabulário Sem Interromper Sua Leitura
 
