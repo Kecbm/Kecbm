@@ -116,13 +116,9 @@ I am currently a Software Engineer AI First at
 <br>
 -->
 
-<!--
-## 🌎 Open Source Projects
+## 🌎 Open Source Project
 
-- [`Vocab master`](): description + GIF's;
-url: mastervocab.vercel.app
-
-# 📖 Vocab Master – Aprenda Vocabulário Sem Interromper Sua Leitura
+### 📖 Vocab Master – Aprenda Vocabulário Sem Interromper Sua Leitura
 
 Transforme sua leitura em uma experiência de aprendizado de idiomas poderosa.
 Com o Vocab Master, você não perde o ritmo: capture, traduza e estude novas palavras em inglês ou francês enquanto lê livros, artigos ou qualquer conteúdo.
@@ -135,30 +131,23 @@ Com o Vocab Master, você não perde o ritmo: capture, traduza e estude novas pa
 - 🎧 Pronúncia Autêntica → ouça como a palavra realmente soa com vozes nativas.
 - 📊 Progresso Visível → estatísticas em tempo real sobre seu vocabulário e leitura.
 
-## 🎬 Demonstrações em GIFs (conteúdos que você pode gravar):
+## 🎬 Demonstrações em GIFs:
 
-1. Adicionando uma palavra nova
-Mostrar a busca, tradução automática e salvamento com animação suave.
+📚 Adicione novas palavras e veja a mágica acontecer
 
-2. Status da palavra mudando (Learning → Mastered)
-Dar um ar gamificado, como se fosse subir de nível.
+🎮 Transforme seu aprendizado em um jogo
 
-3. Filtro por status e busca em tempo real
-Usuário digita “entireß” e encontra instantaneamente entre centenas de palavras.
+🔎 Encontre qualquer palavra em segundos
 
-4. Pronúncia da palavra
-Mostrar o clique no ícone de som e a palavra sendo lida em voz nativa.
-
-## 🌟 Chamado Final
+🔊 Ouça e aprenda como um nativo
 
 “Não deixe palavras desconhecidas atrapalharem sua leitura.
 Com o Vocab Master, cada página vira uma oportunidade de aprender.”
 
-👉 Acesse o projeto
+[👉 Acesse o projeto](mastervocab.vercel.app)
 
 <br>
 <br>
--->
 
 ## 🗂️ Open Source Contributions
 
