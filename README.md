@@ -144,8 +144,8 @@ Com o Vocab Master, você não perde o ritmo: capture, traduza e estude novas pa
 <img title="Adicionando uma nova palavra" alt="My social networks" src="./assets/3.filters.gif" />
 </details>
 
-“Não deixe palavras desconhecidas atrapalharem sua leitura.
-Com o Vocab Master, cada página vira uma oportunidade de aprender.”
+Não deixe palavras desconhecidas atrapalharem sua leitura.
+Com o Vocab Master, cada página vira uma oportunidade de aprender.
 
 [👉 Acesse o projeto](mastervocab.vercel.app)
 
