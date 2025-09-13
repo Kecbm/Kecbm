@@ -138,9 +138,13 @@ With Vocab Master, you don't lose your rhythm: capture, translate, and study new
 
 <img title="Adicionando uma nova palavra" alt="My social networks" src="./assets/1.add.gif" />
 
+<br>
+
 🎮 Turn your learning into a game
 
 <img title="Adicionando uma nova palavra" alt="My social networks" src="./assets/2.edit.gif" />
+
+<br>
 
 🔎 Find any word in seconds
 
