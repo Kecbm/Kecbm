@@ -118,36 +118,39 @@ I am currently a Software Engineer AI First at
 
 ## 🌎 Side Project
 
-### 📖 Vocab Master – Aprenda Vocabulário Sem Interromper Sua Leitura
+### 📖 Vocab Master – Learn Vocabulary Without Interrupting Your Reading
 
-Transforme sua leitura em uma experiência de aprendizado de idiomas poderosa.
-Com o Vocab Master, você não perde o ritmo: capture, traduza e estude novas palavras em inglês ou francês enquanto lê livros, artigos ou qualquer conteúdo.
+Transform your reading into a powerful language learning experience.
+With Vocab Master, you don't lose your rhythm: capture, translate, and study new words in English or French while reading books, articles, or any content.
 
-## ✨ Principais Diferenciais
+## ✨ Key Features
 
-- 🚀 Captura Instantânea → adicione palavras com um clique e obtenha tradução automática.
-- 🧠 Aprendizado Inteligente → organize por status: New, Learning, Mastered.
-- 📚 Foco no Contexto → relacione cada palavra ao livro ou artigo em que você a encontrou.
-- 🎧 Pronúncia Autêntica → ouça como a palavra realmente soa com vozes nativas.
-- 📊 Progresso Visível → estatísticas em tempo real sobre seu vocabulário e leitura.
+- 🚀 Instant Capture → add words with one click and get automatic translation.
+- 🧠 Smart Learning → organize by status: New, Learning, Mastered.
+- 📚 Context Focus → relate each word to the book or article where you found it.
+- 🎧 Authentic Pronunciation → hear how the word really sounds with native voices.
+- 📊 Visible Progress → real-time statistics about your vocabulary and reading.
 
 <details>
-  <summary><h3>🎬 Demonstrações</h3></summary>
+  <summary><h3>🎬 Demonstrations</h3></summary>
 
-📚 Adicione novas palavras e veja a mágica acontecer
+📚 Add new words and watch the magic happen
+
 <img title="Adicionando uma nova palavra" alt="My social networks" src="./assets/1.add.gif" />
 
-🎮 Transforme seu aprendizado em um jogo
+🎮 Turn your learning into a game
+
 <img title="Adicionando uma nova palavra" alt="My social networks" src="./assets/2.edit.gif" />
 
-🔎 Encontre qualquer palavra em segundos
+🔎 Find any word in seconds
+
 <img title="Adicionando uma nova palavra" alt="My social networks" src="./assets/3.filters.gif" />
 </details>
 
-Não deixe palavras desconhecidas atrapalharem sua leitura.
-Com o Vocab Master, cada página vira uma oportunidade de aprender.
+Don't let unknown words disrupt your reading.
+With Vocab Master, every page becomes an opportunity to learn.
 
-[👉 Acesse o projeto](mastervocab.vercel.app)
+[👉 Access the project](mastervocab.vercel.app)
 
 <br>
 <br>
