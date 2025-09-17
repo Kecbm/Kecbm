@@ -1,4 +1,4 @@
-<img title="My social networks" alt="My social networks" src="./assets/Couver-2025.png" />
+<img title="My social networks" alt="My social networks" src="./assets/GitHub.png" />
 
 <br>
 <br>
