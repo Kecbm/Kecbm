@@ -154,7 +154,7 @@ With Vocab Master, you don't lose your rhythm: capture, translate, and study new
 Don't let unknown words disrupt your reading.
 With Vocab Master, every page becomes an opportunity to learn.
 
-[👉 Access the project](mastervocab.vercel.app)
+[👉 Access the project](https://mastervocab.vercel.app/)
 
 <br>
 <br>
