@@ -127,7 +127,6 @@ With Vocab Master, you don't lose your rhythm: capture, translate, and study new
 
 - 🚀 Instant Capture → add words with one click and get automatic translation.
 - 🧠 Smart Learning → organize by status: New, Learning, Mastered.
-- 📚 Context Focus → relate each word to the book or article where you found it.
 - 🎧 Authentic Pronunciation → hear how the word really sounds with native voices.
 - 📊 Visible Progress → real-time statistics about your vocabulary and reading.
 
