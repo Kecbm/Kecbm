@@ -107,14 +107,14 @@ I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. D
 <br>
 <br>
 
-<!--
+
 ## 👩🏽‍💻 Professional
 
-I am currently a Software Engineer AI First at 
+I am currently a Software Engineer AI First at Quorum
 
 <br>
 <br>
--->
+
 
 ## 🌎 Side Project
 
@@ -212,7 +212,7 @@ My contribution to open source project are:
 
 ## 🖥 Professional Performance
 
-<!-- ⚖️ -->
+⚖️ Software Engineer AI First - Quorum (05/2025 - current)
 
 🎓 Mid-Level Full Stack Developer - Eduzz (10/2024 - 05/2025)
 
