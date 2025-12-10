@@ -100,7 +100,7 @@ I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. D
 <div align="center">
   <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kecbm&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10&layout=compact" />
   <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kecbm&theme=radical&hide_border=true" /> -->
-</div>
+</div> 
 
 </details>
 
