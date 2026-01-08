@@ -212,6 +212,8 @@ My contribution to open source project are:
 
 ## 🖥 Professional Performance
 
+<!-- Copiar essa seção do currículo com as palavras-chave -->
+
 ⚖️ Software Engineer AI First - Quorum (05/2025 - present)
 
 🎓 Mid-Level Full Stack Developer - Eduzz (10/2024 - 05/2025)
