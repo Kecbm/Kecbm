@@ -214,13 +214,18 @@ My contribution to open source project are:
 
 <!-- Copiar essa seção do currículo com as palavras-chave -->
 
-⚖️ Software Engineer AI First - Quorum (05/2025 - present)
+### ⚖️ Software Engineer AI First - Quorum (05/2025 - present)
+- Django, React, MUI, TailwindCSS, SQL Server, Jenkins, Datadog, Sentry, Grafana, Opsgenie
 
-🎓 Mid-Level Full Stack Developer - Eduzz (10/2024 - 05/2025)
+### 🎓 Mid-Level Full Stack Developer - Eduzz (10/2024 - 05/2025)
+- .NET, SQL Server, Redis, React, Ant Design, Jenkins, Kubernets
 
-⚡ Full Stack Developer - BR24 (05/2023 - 10/2024)
+### ⚡ Full Stack Developer - BR24 (05/2023 - 10/2024)
+- Introduction of the Codeium AI tool to the development team, resulting in increased efficiency and productivity;
+- React, TailwindCSS, PHP, NestJS
 
-🏦 Software Engineer - XP Inc. (09/2022 - 03/2023)
+### 🏦 Software Engineer - XP Inc. (09/2022 - 03/2023)
+- .NET, SQL Server, React
 
 <!-- 🎷 Saxophonist at the Manoel Rabelo Orchestra - Garanhuns City Hall (01/2017 - 12/2020) -->
 
@@ -229,9 +234,11 @@ My contribution to open source project are:
 
 ## 🎓 Academic Education
 
-💻 Full Stack Web Development - Trybe (10/2021 - 12/2022)
+### 💻 Full Stack Web Development - Trybe (10/2021 - 12/2022)
+- JavaScript, TypeScript, Python, C#, HTML, CSS, React, Node.js, PostgreSQL, MySQL, MongoDB, Test development, Docker, Linux
 
-👩🏽‍🔬 Food Engineering - Federal Rural University of Pernambuco (01/2014 - 05/2021)
+### 👩🏽‍🔬 Food Engineering - Federal Rural University of Pernambuco (01/2014 - 05/2021)
+- Computer Science Fundamentals, Algorithms, Data Structures, and Programming Logic with C and Java
 
 <br>
 <br>
