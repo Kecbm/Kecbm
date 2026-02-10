@@ -10,7 +10,7 @@ As a Software Engineer AI First, I have 3 years of experience in software develo
 - 🎨 Front end: HTML, CSS, JavaScript, Typescript, React
 - ⚙️ Back end: Node.js, .NET, Python
 - 💾 Database: Postgres, MongoDB, MySQL, SQL Server
-- 🛠️ Ops: Jenkins, Docker, Git, Kubernetes
+- 🛠️ Ops: AI, Jenkins, Docker, Git, Kubernetes
 
 <!-- Use the Dev.to api for get status -->
 As a content creator on DEV Community, I share insights on careers, problem-solving, and growth in technology, with over 24 published articles, 14,300 views, and 3,600 followers.
@@ -215,14 +215,14 @@ My contribution to open source project are:
 <!-- Copiar essa seção do currículo com as palavras-chave -->
 
 ### ⚖️ Software Engineer AI First - Quorum (05/2025 - present)
-- Django, React, MUI, TailwindCSS, SQL Server, Jenkins, Datadog, Sentry, Grafana, Opsgenie
+- AI, Django, React, MUI, TailwindCSS, SQL Server, Jenkins, Datadog, Sentry, Grafana, Opsgenie
 
 ### 🎓 Mid-Level Full Stack Developer - Eduzz (10/2024 - 05/2025)
-- .NET, SQL Server, Redis, React, Ant Design, Jenkins, Kubernets
+- AI, .NET, SQL Server, Redis, React, Ant Design, Jenkins, Kubernets
 
 ### ⚡ Full Stack Developer - BR24 (05/2023 - 10/2024)
 - Introduction of the Codeium AI tool to the development team, resulting in increased efficiency and productivity;
-- React, TailwindCSS, PHP, NestJS
+- AI, React, TailwindCSS, PHP, NestJS
 
 ### 🏦 Software Engineer - XP Inc. (09/2022 - 03/2023)
 - .NET, SQL Server, React
