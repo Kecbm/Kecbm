@@ -23,8 +23,6 @@ When I'm not coding, [I write about programming](https://dev.to/kecbm/).
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?&logo=AntDesign)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=MUI)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-000?&logo=TailwindCSS)
