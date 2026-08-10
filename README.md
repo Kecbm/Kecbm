@@ -5,112 +5,54 @@
 
 # 👋🏽 Hello, I'm Klecianny
 
-As a Software Engineer AI First, I have 3 years of experience in software development with expertise in languages and frameworks such as:
+Full Stack Software Engineer with 4 years of experience building web applications.
 
-- 🎨 Front end: HTML, CSS, JavaScript, Typescript, React
-- ⚙️ Back end: Node.js, .NET, Python
-- 💾 Database: Postgres, MongoDB, MySQL, SQL Server
-- 🛠️ Ops: AI, Jenkins, Docker, Git, Kubernetes
-
-<!-- Use the Dev.to api for get status -->
-As a content creator on DEV Community, I share insights on careers, problem-solving, and growth in technology, with over 24 published articles, 14,300 views, and 3,600 followers.
-
-In my free time, I enjoy going to the gym to keep my mind and body active, riding my bike, reading books, and playing PlayStation 3.
-
-Let’s connect and have a chat?
+When I'm not coding, [I write about programming](https://dev.to/kecbm/).
 
 <br>
 <br>
 
-## 👩🏽‍🎓 Academic Training
+<h3>🛠 Technologies</h3>
 
-I am a Food Engineer from UFAPE - Federal University of Agreste de Pernambuco. During my undergraduate studies, I had the opportunity to teach several subjects, the first of which was algorithms and computer programming, focusing on programming logic in C and Java. I recently specialized as a Full Stack Web Developer at Trybe.
+#### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
-<details>
-  <summary><h3>🛠 Skills</h3></summary>
-<p>
-<div>
-<h4>Languages</h4>
-<img title="JavaScript" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-<img title="TypeScript" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-<img title="Python" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  
-<br>
+#### Frontend
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?&logo=AntDesign)
+![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=MUI)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-000?&logo=TailwindCSS)
 
-<h4>Frontend Tools</h4>
-<img title="HTML" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img title="CSS" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img title="React" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img title="Redux" alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
-<img title="Bootstrap" alt="Bootstrap" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img title="Ant Design" alt="Ant Design" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" />
-<img title="Material UI" alt="Material UI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />         
-<img title="Tailwindcss" alt="Tailwindcss" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+#### Backend
+![Node.JS](https://img.shields.io/badge/-Node.JS-000?&logo=nodedotjs)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-000)
+![Django](https://img.shields.io/badge/-Django-000?&logo=django)
+![DBeaver](https://img.shields.io/badge/-DBeaver-000?&logo=dbeaver)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
 
-<br>
-  
-<h4>Backend Tools</h4>
-<img title="Node.JS" alt="Node.JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img title="MySQL" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img title="MongoDB" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img title="PostgreSQL" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img title="SQL Server" alt="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-<img title="Django" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img title="Django Rest Framework" alt="Django Rest Framework" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
-<img title="DBeaver" alt="DBeaver" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
-<img title="Postman" alt="Postman" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+#### DevOpss
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins)
 
-<br>
-
-<h4>Testing Tools</h4>
-<img title="Jest" alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
-<img title="React Testing Library" alt="React Testing Library" width="40" height="40" src="https://testing-library.com/img/logo-large.png" />
-<img title="Mocha" alt="Mocha" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-<img title="Pytest" alt="Pytest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
-
-<br>
-
-<h4>DevOps Tools</h4>
-<img title="Docker" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-<img title="Vercel" alt="Vercel" height="40" width="40" src="https://www.svgrepo.com/show/327408/logo-vercel.svg" />
-<img title="Jenkins" alt="Jenkins" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-<img title="Grafana" alt="Grafana" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
-
-<br>
-
-<h4>Utility Tools</h4>
-<img title="Linux" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-<img title="Windows" alt="Windows" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-<img title="Debian" alt="Debian" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
-<img title="Apple" alt="Apple" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />     
-<img title="Vscode" alt="Vscode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img title="Jira" alt="Jira" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
-
-</div>
-</p>
-</details>
-
-<details>
-<summary><h3>📊 Statistics</h3></summary>
-
-<div align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kecbm&theme=radical" />
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kecbm&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10&layout=compact" />
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kecbm&theme=radical&hide_border=true" /> -->
-</div> 
-
-</details>
+#### IA
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-000?&logo=claude)
 
 <br>
 <br>
-
 
 ## 👩🏽‍💻 Professional
 
-I am currently a Software Engineer AI First at Quorum
+I am currently a Full Stack Software Engineer at Quorum
 
 <br>
 <br>
@@ -122,36 +64,6 @@ I am currently a Software Engineer AI First at Quorum
 
 Transform your reading into a powerful language learning experience.
 With Vocab Master, you don't lose your rhythm: capture, translate, and study new words in English or French while reading books, articles, or any content.
-
-## ✨ Key Features
-
-- 🚀 Instant Capture → add words with one click and get automatic translation.
-- 🧠 Smart Learning → organize by status: New, Learning, Mastered.
-- 🎧 Authentic Pronunciation → hear how the word really sounds with native voices.
-- 📊 Visible Progress → real-time statistics about your vocabulary and reading.
-
-<details>
-  <summary><h3>🎬 Demonstrations</h3></summary>
-
-📚 Add new words and watch the magic happen
-
-<img title="Adicionando uma nova palavra" alt="My social networks" src="./assets/1.add.gif" />
-
-<br>
-
-🎮 Turn your learning into a game
-
-<img title="Adicionando uma nova palavra" alt="My social networks" src="./assets/2.edit.gif" />
-
-<br>
-
-🔎 Find any word in seconds
-
-<img title="Adicionando uma nova palavra" alt="My social networks" src="./assets/3.filters.gif" />
-</details>
-
-Don't let unknown words disrupt your reading.
-With Vocab Master, every page becomes an opportunity to learn.
 
 [👉 Access the project](https://mastervocab.vercel.app/)
 
@@ -205,39 +117,6 @@ My contribution to open source project are:
 - 🤖 <a href="https://www.youtube.com/watch?v=Tonfpy4eQFY&list=PLw0GGb7tHTHv3gdy39NrOrLh7TrnqjUrL" target="_blank">Série Muito além do código - XP Inc.</a>
   
 </details>
-
-<br>
-<br>
-
-## 🖥 Professional Performance
-
-<!-- Copiar essa seção do currículo com as palavras-chave -->
-
-### ⚖️ Software Engineer AI First - Quorum (05/2025 - present)
-- AI, Django, React, MUI, TailwindCSS, SQL Server, Jenkins, Datadog, Sentry, Grafana, Opsgenie
-
-### 🎓 Mid-Level Full Stack Developer - Eduzz (10/2024 - 05/2025)
-- AI, .NET, SQL Server, Redis, React, Ant Design, Jenkins, Kubernets
-
-### ⚡ Full Stack Developer - BR24 (05/2023 - 10/2024)
-- Introduction of the Codeium AI tool to the development team, resulting in increased efficiency and productivity;
-- AI, React, TailwindCSS, PHP, NestJS
-
-### 🏦 Software Engineer - XP Inc. (09/2022 - 03/2023)
-- .NET, SQL Server, React
-
-<!-- 🎷 Saxophonist at the Manoel Rabelo Orchestra - Garanhuns City Hall (01/2017 - 12/2020) -->
-
-<br>
-<br>
-
-## 🎓 Academic Education
-
-### 💻 Full Stack Web Development - Trybe (10/2021 - 12/2022)
-- JavaScript, TypeScript, Python, C#, HTML, CSS, React, Node.js, PostgreSQL, MySQL, MongoDB, Test development, Docker, Linux
-
-### 👩🏽‍🔬 Food Engineering - Federal Rural University of Pernambuco (01/2014 - 05/2021)
-- Computer Science Fundamentals, Algorithms, Data Structures, and Programming Logic with C and Java
 
 <br>
 <br>
