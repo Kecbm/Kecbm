@@ -20,8 +20,6 @@ When I'm not coding, [I write about programming](https://dev.to/kecbm/).
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 #### Frontend
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?&logo=AntDesign)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=MUI)
@@ -29,19 +27,16 @@ When I'm not coding, [I write about programming](https://dev.to/kecbm/).
 
 #### Backend
 ![Node.JS](https://img.shields.io/badge/-Node.JS-000?&logo=nodedotjs)
+![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-000)
-![Django](https://img.shields.io/badge/-Django-000?&logo=django)
-![DBeaver](https://img.shields.io/badge/-DBeaver-000?&logo=dbeaver)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
 
 #### DevOpss
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins)
-
 #### IA
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-000?&logo=claude)
 
