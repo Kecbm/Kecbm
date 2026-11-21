@@ -3,42 +3,85 @@
 <br>
 <br>
 
-# 👋🏽 Hello, I'm Klecianny
+# 👋🏽 Hi, I'm Klecianny
 
-Full Stack Software Engineer with 4 years of experience building web applications.
+**Full Stack Software Engineer** | React · TypeScript · Python · Django · .NET
 
-When I'm not coding, [I write about programming](https://dev.to/kecbm/).
+I'm a Software Engineer with 4+ years of experience building full-stack web applications, delivering production features, and improving software reliability and performance.
+
+I work across frontend and backend development, with a strong focus on **clean code, automated testing, API integrations, database optimization, and AI-assisted development**.
+
+🌎 Based in Brazil (UTC-3)
+
+<br>
+
+## 🚀 Engineering Impact
+
+- **Software Reliability:** Eliminated 50,000 false Sentry alerts by improving state synchronization and error handling across services.
+- **Performance Optimization:** Reduced critical-operation latency by 30% and database query times by 25% through SQL optimization and Redis caching.
+- **Full-Stack Development:** Delivered 15+ features using React and .NET, accelerating UI delivery by 20%.
+- **Automated Testing:** Increased test coverage from 0% to 50% in a legacy React/PHP application.
+- **AI-Assisted Development:** Reduced development time by 25% through AI-assisted workflows and engineering automation.
 
 <br>
 <br>
 
-<h3>🛠 Technologies</h3>
+## 🛠️ Tech Stack
 
-#### Languages
+### Languages
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=sqlite)
 
-#### Frontend
+### Frontend
+
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=TailwindCSS)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?&logo=AntDesign)
-![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=MUI)
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-000?&logo=TailwindCSS)
 
-#### Backend
-![Node.JS](https://img.shields.io/badge/-Node.JS-000?&logo=nodedotjs)
-![Django](https://img.shields.io/badge/-Django-000?&logo=django)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-000)
+### Backend & APIs
 
-#### DevOpss
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins)
-#### IA
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+![.NET](https://img.shields.io/badge/-.NET-000?&logo=dotnet)
+
+**API Development:** REST APIs · OpenAPI · Systems Integration
+
+### Databases & Caching
+
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?&logo=microsoftsqlserver)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+
+### Cloud, DevOps & Observability
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
+![Sentry](https://img.shields.io/badge/-Sentry-000?&logo=Sentry)
+![Datadog](https://img.shields.io/badge/-Datadog-000?&logo=Datadog)
+
+**Practices:** CI/CD · Monitoring · Software Observability
+
+### AI-Assisted Development
+
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-000?&logo=claude)
+
+**Focus:** AI Pair Programming · AI-Assisted Programming · Developer Productivity · Workflow Automation
+
+## ⚙️ Engineering Expertise
+
+`Full-Stack Development` · `Frontend Development` · `Backend Development` · `Software Engineering` · `REST APIs` · `Code Review` · `Automated Testing` · `Code Quality` · `Performance Optimization` · `Software Reliability` · `Data Integrity` · `Database Optimization` · `Error Handling` · `Technical Documentation` · `RBAC`
+
+## ✍️ Technical Writing
+
+I also enjoy sharing what I learn about software engineering and development tools.
+
+📚 [Read my articles on Dev.to](https://dev.to/kecbm) — 17K+ article views.
 
 <br>
 <br>
@@ -54,6 +97,8 @@ I am currently a Full Stack Software Engineer at Quorum
 ## 🌎 Side Project
 
 ### 📖 Vocab Master – Learn Vocabulary Without Interrupting Your Reading
+
+<!-- GIF -->
 
 Transform your reading into a powerful language learning experience.
 With Vocab Master, you don't lose your rhythm: capture, translate, and study new words in English or French while reading books, articles, or any content.
