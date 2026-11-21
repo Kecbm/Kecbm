@@ -5,7 +5,7 @@
 
 # 👋🏽 Hi, I'm Klecianny
 
-**Full Stack Software Engineer** | React · TypeScript · Python · Django · .NET
+**Full Stack Software Engineer** | React · TypeScript · Python · Node.js
 
 I'm a Software Engineer with 4+ years of experience building full-stack web applications, delivering production features, and improving software reliability and performance.
 
