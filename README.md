@@ -11,6 +11,9 @@ I'm a Software Engineer with 4+ years of experience building full-stack web appl
 
 I work across frontend and backend development, with a strong focus on **clean code, automated testing, API integrations, database optimization, and AI-assisted development**.
 
+I also value technical communication, knowledge sharing, and collaborative problem-solving as essential parts of building maintainable software.
+
+
 🌎 Based in Brazil (UTC-3)
 
 <br>
@@ -73,15 +76,21 @@ I work across frontend and backend development, with a strong focus on **clean c
 
 **Focus:** AI Pair Programming · AI-Assisted Programming · Developer Productivity · Workflow Automation
 
+
 ## ⚙️ Engineering Expertise
 
-`Full-Stack Development` · `Frontend Development` · `Backend Development` · `Software Engineering` · `REST APIs` · `Code Review` · `Automated Testing` · `Code Quality` · `Performance Optimization` · `Software Reliability` · `Data Integrity` · `Database Optimization` · `Error Handling` · `Technical Documentation` · `RBAC`
+`Full-Stack Development` · `Frontend Development` · `Backend Development` · `Software Engineering` · `REST APIs` · `Code Review` · `Automated Testing` · `Code Quality` · `Performance Optimization` · `Software Reliability` · `Data Integrity` · `Database Optimization` · `Error Handling` · `Technical Documentation` · `Requirements Analysis` · `Technical Communication` · `RBAC`
+
 
 ## ✍️ Technical Writing
 
-I also enjoy sharing what I learn about software engineering and development tools.
+Beyond coding, I write about software engineering, technical and business refinement, legacy code, agile practices, and communication in engineering teams.
 
-📚 [Read my articles on Dev.to](https://dev.to/kecbm) — 17K+ article views.
+- **14articles**.
+- **17K+ lifetime article views** on DEV Community.
+- **2x DEV Community Top 7** recognition.
+
+📚 [Read my articles on DEV Community](https://dev.to/kecbm)
 
 <br>
 <br>
